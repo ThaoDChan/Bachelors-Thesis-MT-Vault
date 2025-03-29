@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1742133665106,
+      "path": "Index.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1742678860817,
+      "path": "Index.md",
+      "subpath": "#^-"
+    },
+    {
+      "type": "file",
+      "ctime": 1742134669471,
+      "path": "Misc/To Do.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1742678860817,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1742678860817,
+          "items": [],
+          "title": "Contents"
+        },
+        {
+          "type": "group",
+          "ctime": 1742678860817,
+          "items": [],
+          "title": "Misc"
+        },
+        {
+          "type": "group",
+          "ctime": 1742678860817,
+          "items": [],
+          "title": "Paper_Notes"
+        },
+        {
+          "type": "file",
+          "ctime": 1742678860817,
+          "path": "Index.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1742678860817,
+          "path": "Misc/To Do.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1742678860817,
+          "items": [],
+          "title": "Papers_Converted"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
