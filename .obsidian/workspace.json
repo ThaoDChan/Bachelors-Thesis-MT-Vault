@@ -25,14 +25,14 @@
             "id": "156d06a9b74a19c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Misc/Outline Deep Research Prompt V1.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Misc/Notes.md",
+                "bFile": "Misc/Notes.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Outline Deep Research Prompt V1"
+              "icon": "diff",
+              "title": "Diff: Notes"
             }
           }
         ],
@@ -157,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Outline Deep Research Prompt V1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Outline Deep Research Prompt V1"
+              "title": "Outline"
             }
           },
           {
@@ -208,11 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e38c18cfa1c5371",
+  "active": "156d06a9b74a19c8",
   "lastOpenFiles": [
-    "2025-03-29.md",
-    "Misc/Outline Deep Research Prompt V1.md",
     "Misc/Notes.md",
+    "Misc/Outline Deep Research Prompt V1.md",
+    "2025-03-29.md",
     "Papers_Converted/Papers_State_of_the_art/(braysy2005a)_Vehicle_Routing_Problem_with_Time_Windows-Part_I-Route_Construction_and_Local_Search_Algorithms.md",
     "Misc/Additional Literature.md",
     "Misc/Survey Papers.md",
