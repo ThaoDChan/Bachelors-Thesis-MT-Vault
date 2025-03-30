@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "10c0411cff183d06",
+        "id": "43386bde9f694888",
         "type": "tabs",
         "children": [
           {
-            "id": "5c3e220d594299bb",
+            "id": "8ef4cd8cd0340f03",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "Misc/Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ]
@@ -142,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Misc/Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Notes"
             }
           },
           {
@@ -202,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c3e220d594299bb",
+  "active": "2e38c18cfa1c5371",
   "lastOpenFiles": [
     "Papers_Converted/Proposal_Kühn_VRP_bud.md",
     "Papers_Converted/Papers_ML/(alesiani2022)_Constrained_clustering_for_the_capacitated_vehicle_routing_problem_(CC-CVRP).md",
