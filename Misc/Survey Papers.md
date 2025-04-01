@@ -1,5 +1,6 @@
 ## Metadata
-### Publication Years
+
+ Publication Years
 - 1991: 1
 - 2007: 1
 - 2009: 1
@@ -18,94 +19,96 @@
 - 2022: 18
 - 2023: 3
 
-## Links
+## Progress
 
-| DL    | BIB  | TITLE | DOCLING | SUMMARY | **Citation Key**  | **PDF**                                                                                      | **BibTeX/DOI**                                                                                                   |
-| ----- | ---- | ----- | ------- | ------- | ----------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [zhang2020]       | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0968090X21003617)        | DOI: 10.1016/j.trc.2021.103419                                                                                   |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [lin2022]         | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0305054822001258)        | DOI: 10.1016/j.cor.2022.105974                                                                                   |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [falkner2020]     | [PDF (arXiv)](https://arxiv.org/pdf/2006.09100.pdf)                                          | [BibTeX (arXiv)](https://arxiv.org/bib/2006.09100)                                                               |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [li2022]          | [PDF (arXiv)](https://arxiv.org/pdf/2107.12043.pdf)                                          | [BibTeX (arXiv)](https://arxiv.org/bib/2107.12043)                                                               |
-| [X ]  | [ X] | [ X]  | [ ]     | [ ]     | [li2022a]         | [PDF (arXiv)](https://arxiv.org/pdf/2203.08906.pdf)                                          | [BibTeX (arXiv)](https://arxiv.org/bib/2203.08906)                                                               |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [duan2020]        | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0191261519303424)        | DOI: 10.1016/j.trb.2020.03.007                                                                                   |
-| [X ]  | [X ] | [ X]  | [ ]     | [ ]     | [qi2022]          | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S1568494622009261)        | DOI: 10.1016/j.asoc.2022.109960                                                                                  |
-| [X ]  | [X ] | [ X]  | [ ]     | [ ]     | [hottung2020]     | [PDF (arXiv)](https://arxiv.org/pdf/1911.09539.pdf)                                          | [BibTeX (arXiv)](https://arxiv.org/bib/1911.09539)                                                               |
-| [ X]  | [ X] | [X ]  | [ ]     | [ ]     | [syed2019]        | [Link (Paywall)](https://ieeexplore.ieee.org/document/8917002)                               | DOI: 10.1109/ITSC.2019.8917002                                                                                   |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [silva2019]       | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0952197619300926)        | DOI: 10.1016/j.engappai.2019.03.018                                                                              |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [delarue2020]     | [PDF (arXiv)](https://arxiv.org/pdf/2006.04139.pdf)                                          | [BibTeX (arXiv)](https://arxiv.org/bib/2006.04139)                                                               |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [alesiani2022]    | PDF (Open Access)                                                                            | BibTeX (MDPI)                                                                                                    |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [wang2020a]       | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S1366554520301286)        | DOI: 10.1016/j.tre.2020.101925                                                                                   |
-| [X ]  | [ X] | [ X]  | [ ]     | [ ]     | [wang2020b]       | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S1366554519308691)        | DOI: 10.1016/j.tre.2019.101923                                                                                   |
-| [ X]  | [X ] | [X ]  | [ ]     | [ ]     | [ma2022]          | [PDF (arXiv)](https://arxiv.org/pdf/2012.10638.pdf)                                          | [BibTeX (arXiv)](https://arxiv.org/bib/2012.10638)                                                               |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [wu2020]          | [PDF (arXiv)](https://arxiv.org/pdf/2102.04250.pdf)                                          | [BibTeX (arXiv)](https://arxiv.org/bib/2102.04250)                                                               |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [gao2020]         | [PDF (arXiv)](https://arxiv.org/pdf/2002.01321.pdf)                                          | [BibTeX (arXiv)](https://arxiv.org/bib/2002.01321)                                                               |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [li2021]          | [PDF (arXiv)](https://arxiv.org/pdf/2106.10773.pdf)                                          | [BibTeX (arXiv)](https://arxiv.org/bib/2106.10773)                                                               |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [zong2022]        | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0377221722007562)        | DOI: 10.1016/j.ejor.2022.07.056                                                                                  |
-| [X ]  | [ X] | [ X]  | [ ]     | [ ]     | [hottung2021]     | [PDF (arXiv)](https://arxiv.org/pdf/2010.11950.pdf)                                          | [BibTeX (arXiv)](https://arxiv.org/bib/2010.11950)                                                               |
-| [X ]  | [X ] | [ X]  | [ ]     | [ ]     | [moradi2020]      | Article Page (Open) PDF                                                                      | DOI: 10.5829/ije.2020.33.08a.02                                                                                  |
-| [ X]  | [X ] | [X ]  | [ ]     | [ ]     | [poullet2020]     | PDF (Thesis)                                                                                 | BibTeX (ULB Record)                                                                                              |
-| [ X]  | [ X] | [X ]  | [ ]     | [ ]     | [zou2022]         | [Link (Paywall)](https://link.springer.com/article/10.1007/s10489-022-04446-1)               | DOI: 10.1007/s10489-022-04446-1                                                                                  |
-| [X ]  | [ X] | [X ]  | [ ]     | [ ]     | [ren2022]         | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0360835222001387)        | DOI: 10.1016/j.cie.2022.108344                                                                                   |
-| [X ]  | [ X] | [X ]  | [ ]     | [ ]     | [zhao2021]        | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0952197621002704)        | DOI: 10.1016/j.engappai.2021.104504                                                                              |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [santana2023]     | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0305054823000628)        | DOI: 10.1016/j.cor.2023.106133                                                                                   |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [furian2021]      | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0305054821001990)        | DOI: 10.1016/j.cor.2021.105257                                                                                   |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [wang2022]        | [PDF (Open Access)](https://link.springer.com/content/pdf/10.1007/s40747-022-00679-6.pdf)    | [BibTeX (Springer)](https://citation-needed.springer.com/v2/references/10.1007/s40747-022-00679-6?format=bibtex) |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [morabit2022]     | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0305054822002473)        | DOI: 10.1016/j.cor.2022.105843                                                                                   |
-| [ X]  | [ X] | [X ]  | [ ]     | [ ]     | [mandi2021]       | [PDF (arXiv)](https://arxiv.org/pdf/2105.06266.pdf)                                          | [BibTeX (arXiv)](https://arxiv.org/bib/2105.06266)                                                               |
-| [ ]   | [X ] | [ ]   | [ ]     | [ ]     | [deb2023]         | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S2210670723000288)        | DOI: 10.1016/j.scs.2023.104269                                                                                   |
-| [ ]   | [ X] | [ ]   | [ ]     | [ ]     | [chen2023]        | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S1366554523000025)        | DOI: 10.1016/j.tre.2023.103054                                                                                   |
-| [X ]  | [ X] | [ X]  | [ ]     | [ ]     | [chen2022]        | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0377221722005663)        | DOI: 10.1016/j.ejor.2022.06.009                                                                                  |
-| [ X]  | [ X] | [X ]  | [ ]     | [ ]     | [alqahtani2022]   | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S2210670722001543)        | DOI: 10.1016/j.scs.2022.103938                                                                                   |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [alwesabi2022]    | Link (Paywall)                                                                               | DOI: 10.1108/IJICC-12-2021-0245                                                                                  |
-| [ X]  | [ X] | [X ]  | [ ]     | [ ]     | [aljohani2020]    | [PDF (Open Access)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9497693)            | DOI: 10.1109/ACCESS.2021.3101881                                                                                 |
-| [ ]   | [X ] | [ ]   | [ ]     | [ ]     | [gupta2022]       | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0952197622002615)        | DOI: 10.1016/j.engappai.2022.105572                                                                              |
-| [ ]   | [X ] | [ ]   | [ ]     | [ ]     | [liu2022]         | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0305054822000919)        | DOI: 10.1016/j.cor.2022.105912                                                                                   |
-| [ ]   | [ X] | [ ]   | [ ]     | [ ]     | [jiang2022]       | PDF (Open Access)                                                                            | DOI: 10.1155/2021/5519072                                                                                        |
-| [X ]  | [ X] | [ X]  | [ ]     | [ ]     | [shou2022]        | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0968090X22001454)        | DOI: 10.1016/j.trc.2022.103885                                                                                   |
-| [ ]   | [ X] | [ ]   | [ ]     | [ ]     | [ding2021]        | [Link (Paywall)](https://ieeexplore.ieee.org/document/9447556)                               | DOI: 10.1109/TITS.2021.3076561                                                                                   |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [chen2019]        | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0305054819302470)        | DOI: 10.1016/j.cor.2020.104920                                                                                   |
-| [X ]  | [ X] | [ X]  | [ ]     | [ ]     | [dacosta2021]     | [PDF (arXiv)](https://arxiv.org/pdf/2102.04803.pdf)                                          | [BibTeX (arXiv)](https://arxiv.org/bib/2102.04803)                                                               |
-| [? ]  | [ X] | [ ]   | [ ]     | [ ]     | [xin2020]         | [PDF (arXiv)](https://arxiv.org/pdf/2006.08409.pdf)                                          | [BibTeX (arXiv)](https://arxiv.org/bib/2006.08409)                                                               |
-| [ X]  | [ X] | [X ]  | [ ]     | [ ]     | [zhou2022]        | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0020025522001598)        | DOI: 10.1016/j.ins.2022.01.086                                                                                   |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [qin2021]         | [Link (Paywall)](https://link.springer.com/article/10.1007/s13042-021-01405-z)               | DOI: 10.1007/s13042-021-01405-z                                                                                  |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [calvet2016b]     | PDF (Open)                                                                                   | BibTeX (dblp)                                                                                                    |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [kadaba1991]      | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/0360835291900245)         | DOI: 10.1016/0360-8352(91)90024-5                                                                                |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [cooray2017]      | [Link (Paywall)](https://ieeexplore.ieee.org/document/7972290)                               | DOI: 10.1109/ICCCT2.2017.7972290                                                                                 |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [zunic2020]       | [Link (Paywall)](https://ieeexplore.ieee.org/document/9215495)                               | DOI: 10.1109/SISY50555.2020.9215495                                                                              |
-| [X ]  | [ X] | [ X]  | [ ]     | [ ]     | [erdogan2012]     | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S1366554511001152)        | DOI: 10.1016/j.tre.2011.08.001                                                                                   |
-| [ X]  | [X ] | [X ]  | [ ]     | [ ]     | [comert2017]      | _Kein konkreter Direktlink gefunden – ggf. Konferenz/Zeitschrift nicht eindeutig zuordenbar_ | _Bitte mit DOI oder Titel weitersuchen_                                                                          |
-| [ ]   | [ X] | [ ]   | [ ]     | [ ]     | [comert2018]      | _Kein konkreter Direktlink gefunden – ggf. Konferenz/Zeitschrift nicht eindeutig zuordenbar_ | _Bitte mit DOI oder Titel weitersuchen_                                                                          |
-| [X ]  | [X ] | [X ]  | [ ]     | [ ]     | [gocmen2019]      | _Nicht eindeutig auffindbar (möglicherweise in Buchkapitel oder Konferenz)_                  | _Bitte mit ausführlichem Titel/DOI recherchieren_                                                                |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [kubra2019]       | _Nicht eindeutig auffindbar_                                                                 | _Bitte mit ausführlichem Titel/DOI recherchieren_                                                                |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [he2009]          | _Kein PDF auf Anhieb gefunden_                                                               | _Bitte Originalquelle/DOI verwenden_                                                                             |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [nallusamy2010]   | Link (DOI? Possibly IRJET?) (unsicher)                                                       | _Bitte genau prüfen, ob es das richtige Paper ist_                                                               |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [reed2014]        | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0377221713009441)        | DOI: 10.1016/j.ejor.2013.08.030                                                                                  |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [xu2018]          | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0925231218302236)        | DOI: 10.1016/j.neucom.2018.01.105                                                                                |
-| [ ]   | [ X] | [ ]   | [ ]     | [ ]     | [geetha2013]      | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S095741741300296X)        | DOI: 10.1016/j.eswa.2013.04.010                                                                                  |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [rautela2019]     | _Nicht eindeutig auffindbar (mögliche Konferenz?)_                                           | _Bitte mit vollständigem Titel erneut versuchen_                                                                 |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [yucenur2011]     | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0307904X11000893)        | DOI: 10.1016/j.omega.2011.02.005                                                                                 |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [qi2011]          | _Evtl. in chinesischer Konferenz/Journal? Kein PDF gefunden_                                 | _Bitte DOI oder Journalangabe heranziehen_                                                                       |
-| [X ]  | [ X] | [X ]  | [ ]     | [ ]     | [luo2014]         | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0957417413009839)        | DOI: 10.1016/j.eswa.2013.12.027                                                                                  |
-| [ X]  | [X ] | [X ]  | [ ]     | [ ]     | [gao2016]         | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0925231216301261)        | DOI: 10.1016/j.neucom.2016.02.049                                                                                |
-| [X ]  | [ X] | [ X]  | [ ]     | [ ]     | [miranda2017]     | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0377221717306176)        | DOI: 10.1016/j.ejor.2017.10.023                                                                                  |
-| [ ]   | [X ] | [ ]   | [ ]     | [ ]     | [desaulniers2020] | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0305054820301419)        | DOI: 10.1016/j.cor.2020.104982                                                                                   |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [kruber2017]      | [PDF (Open Access)](https://arxiv.org/pdf/1712.06879.pdf)                                    | [BibTeX (arXiv)](https://arxiv.org/bib/1712.06879)                                                               |
-| [X ]  | [ X] | [ X]  | [ ]     | [ ]     | [yao2019]         | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S1366554518305876)        | DOI: 10.1016/j.tre.2019.05.010                                                                                   |
-| [ ]   | [ X] | [ ]   | [ ]     | [ ]     | [bai2007]         | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S037722170600325X)        | DOI: 10.1016/j.ejor.2006.09.015                                                                                  |
-| [X ]  | [X]  | [X ]  | [ ]     | [ ]     | [sabar2015]       | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S1568494615004635)        | DOI: 10.1016/j.asoc.2015.08.037                                                                                  |
-| [X ]  | [X]  | [X ]  | [ ]     | [ ]     | [soria2017]       | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0305054817301489)        | DOI: 10.1016/j.cor.2017.02.011                                                                                   |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [lu2020]          | PDF (OpenReview)                                                                             | BibTeX (OpenReview)                                                                                              |
-| [ X]  | [ X] | [X ]  | [ ]     | [ ]     | [chen2020b]       | [Link (Paywall)](https://www.sciencedirect.com/science/article/pii/S0952197620303013)        | DOI: 10.1016/j.engappai.2020.103713                                                                              |
-| [ XX] | [X ] | [ X]  | [ ]     | [ ]     | [peng2020]        | *Eventuell: [PDF (arXiv)](https://arxiv.org/pdf/1906.01227.pdf) – (Titel weicht leicht ab)   | _Bitte Check, ob es das richtige Paper ist_                                                                      |
-| [ X]  | [ X] | [X ]  | [ ]     | [ ]     | [sheng2020]       | _Nicht sicher zu finden; evtl. Konferenz- bzw. Journalname fehlt_                            | _Bitte Originalquelle/DOI_                                                                                       |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [bello2017]       | -                                                                                            | -                                                                                                                |
-| [ X]  | [ X] | [ X]  | [ ]     | [ ]     | [vinyals2015]     | -                                                                                            | -                                                                                                                |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [deudon2018]      | -                                                                                            | -                                                                                                                |
-| [ X]  | [ X] | [X ]  | [ ]     | [ ]     | [kool2019]        | -                                                                                            | -                                                                                                                |
-| [ X]  | [X ] | [ X]  | [ ]     | [ ]     | [joshi2019a]      | -                                                                                            | -                                                                                                                |
-| [X ]  | [X ] | [ X]  | [ ]     | [ ]     | [ma2020]          | -                                                                                            | -                                                                                                                |
-| [X ]  | [ X] | [ X]  | [ ]     | [ ]     | [kaempfer2019]    | -                                                                                            | -                                                                                                                |
-| [ ]   | [ X] | [ ]   | [ ]     | [ ]     | [hu2020]          | -                                                                                            | -                                                                                                                |
+Sorted: pdf sorted/img
+
+| DL  | TITLE | BIB | SORTED | DOCLING | SUMMARY | **Citation Key**  |
+| --- | ----- | --- | ------ | ------- | ------- | ----------------- |
+| [X] | [X]   | [X] | []     | []      | []      | [zhang2020]       |
+| [X] | [X]   | [X] | []     | []      | []      | [lin2022]         |
+| [X] | [X]   | [X] | []     | []      | []      | [falkner2020]     |
+| [X] | [X]   | [X] | []     | []      | []      | [li2022]          |
+| [X] | [X]   | [X] | []     | []      | []      | [li2022a]         |
+| [X] | [X]   | [X] | []     | []      | []      | [duan2020]        |
+| [X] | [X]   | [X] | []     | []      | []      | [qi2022]          |
+| [X] | [X]   | [X] | []     | []      | []      | [hottung2020]     |
+| [X] | [X]   | [X] | []     | []      | []      | [syed2019]        |
+| [X] | [X]   | [X] | []     | []      | []      | [silva2019]       |
+| [X] | [X]   | [X] | []     | []      | []      | [delarue2020]     |
+| [X] | [X]   | [X] | []     | []      | []      | [alesiani2022]    |
+| [X] | [X]   | [X] | []     | []      | []      | [wang2020a]       |
+| [X] | [X]   | [X] | []     | []      | []      | [wang2020b]       |
+| [X] | [X]   | [X] | []     | []      | []      | [ma2022]          |
+| [X] | [X]   | [X] | []     | []      | []      | [wu2020]          |
+| [X] | [X]   | [X] | []     | []      | []      | [gao2020]         |
+| [X] | [X]   | [X] | []     | []      | []      | [li2021]          |
+| [X] | [X]   | [X] | []     | []      | []      | [zong2022]        |
+| [X] | [X]   | [X] | []     | []      | []      | [hottung2021]     |
+| [X] | [X]   | [X] | []     | []      | []      | [moradi2020]      |
+| [X] | [X]   | [X] | []     | []      | []      | [poullet2020]     |
+| [X] | [X]   | [X] | []     | []      | []      | [zou2022]         |
+| [X] | [X]   | [X] | []     | []      | []      | [ren2022]         |
+| [X] | [X]   | [X] | []     | []      | []      | [zhao2021]        |
+| [X] | [X]   | [X] | []     | []      | []      | [santana2023]     |
+| [X] | [X]   | [X] | []     | []      | []      | [furian2021]      |
+| [X] | [X]   | [X] | []     | []      | []      | [wang2022]        |
+| [X] | [X]   | [X] | []     | []      | []      | [morabit2022]     |
+| [X] | [X]   | [X] | []     | []      | []      | [mandi2021]       |
+| [X] | [X]   | [X] | []     | []      | []      | [deb2023]         |
+| [X] | [X]   | [X] | []     | []      | []      | [chen2023]        |
+| [X] | [X]   | [X] | []     | []      | []      | [chen2022]        |
+| [X] | [X]   | [X] | []     | []      | []      | [alqahtani2022]   |
+| [X] | [X]   | [X] | []     | []      | []      | [alwesabi2022]    |
+| [X] | [X]   | [X] | []     | []      | []      | [aljohani2020]    |
+| [X] | [X]   | [X] | []     | []      | []      | [gupta2022]       |
+| []  | []    | [X] | []     | []      | []      | [liu2022]         |
+| [X] | [X]   | [X] | []     | []      | []      | [jiang2022]       |
+| [X] | [X]   | [X] | []     | []      | []      | [shou2022]        |
+| [X] | [X]   | [X] | []     | []      | []      | [ding2021]        |
+| [X] | [X]   | [X] | []     | []      | []      | [chen2019]        |
+| [X] | [X]   | [X] | []     | []      | []      | [dacosta2021]     |
+| [X] | [X]   | [X] | []     | []      | []      | [xin2020]         |
+| [X] | [X]   | [X] | []     | []      | []      | [zhou2022]        |
+| [X] | [X]   | [X] | []     | []      | []      | [qin2021]         |
+| [X] | [X]   | [X] | []     | []      | []      | [calvet2016b]     |
+| [X] | [X]   | [X] | []     | []      | []      | [kadaba1991]      |
+| [X] | [X]   | [X] | []     | []      | []      | [cooray2017]      |
+| [X] | [X]   | [X] | []     | []      | []      | [zunic2020]       |
+| [X] | [X]   | [X] | []     | []      | []      | [erdogan2012]     |
+| [X] | [X]   | [X] | []     | []      | []      | [comert2017]      |
+| [X] | [X]   | [X] | []     | []      | []      | [comert2018]      |
+| [X] | [X]   | [X] | []     | []      | []      | [gocmen2019]      |
+| [X] | [X]   | [X] | []     | []      | []      | [kubra2019]       |
+| [X] | [X]   | [X] | []     | []      | []      | [he2009]          |
+| [X] | [X]   | [X] | []     | []      | []      | [nallusamy2010]   |
+| [X] | [X]   | [X] | []     | []      | []      | [reed2014]        |
+| [X] | [X]   | [X] | []     | []      | []      | [xu2018]          |
+| [X] | [X]   | [X] | []     | []      | []      | [geetha2013]      |
+| [X] | [X]   | [X] | []     | []      | []      | [rautela2019]     |
+| [X] | [X]   | [X] | []     | []      | []      | [yucenur2011]     |
+| [X] | [X]   | [X] | []     | []      | []      | [qi2011]          |
+| [X] | [X]   | [X] | []     | []      | []      | [luo2014]         |
+| [X] | [X]   | [X] | []     | []      | []      | [gao2016]         |
+| [X] | [X]   | [X] | []     | []      | []      | [miranda2017]     |
+| [X] | [X]   | [X] | []     | []      | []      | [desaulniers2020] |
+| [X] | [X]   | [X] | []     | []      | []      | [kruber2017]      |
+| [X] | [X]   | [X] | []     | []      | []      | [yao2019]         |
+| [X] | [X]   | [X] | []     | []      | []      | [bai2007]         |
+| [X] | [X]   | [X] | []     | []      | []      | [sabar2015]       |
+| [X] | [X]   | [X] | []     | []      | []      | [soria2017]       |
+| [X] | [X]   | [X] | []     | []      | []      | [lu2020]          |
+| [X] | [X]   | [X] | []     | []      | []      | [chen2020b]       |
+| [X] | [X]   | [X] | []     | []      | []      | [peng2020]        |
+| [X] | [X]   | [X] | []     | []      | []      | [sheng2020]       |
+| [X] | [X]   | [X] | []     | []      | []      | [bello2017]       |
+| [X] | [X]   | [X] | []     | []      | []      | [vinyals2015]     |
+| [X] | [X]   | [X] | []     | []      | []      | [deudon2018]      |
+| [X] | [X]   | [X] | []     | []      | []      | [kool2019]        |
+| [X] | [X]   | [X] | []     | []      | []      | [joshi2019a]      |
+| [X] | [X]   | [X] | []     | []      | []      | [ma2020]          |
+| [X] | [X]   | [X] | []     | []      | []      | [kaempfer2019]    |
+| [X] | [X]   | [X] | []     | []      | []      | [hu2020]          |
 
 
 
@@ -201,7 +204,7 @@
 
 
 ## Literature Index
-### Machine Learning to Solve Vehicle Routing Problems: A Survey
+### [bogyrbayeva2024] Machine Learning to Solve Vehicle Routing Problems: A Survey
 
 [zhang2020] K. Zhang, F. He, Z. Zhang, X. Lin, and M. Li (2020) – Multi-vehicle routing problems with soft time windows: A multi-agent reinforcement learning approach
 - Problem: mVRPSTW (Multiple Vehicles, Soft Time Windows)
@@ -289,7 +292,7 @@
 
 
 
-### Integrating Machine Learning Into Vehicle Routing Problem: Methods and Applications
+### [shahbazian2024] Integrating Machine Learning Into Vehicle Routing Problem: Methods and Applications
 
 [moradi2020] Moradi, B. (2020) – The new optimization algorithm for the vehicle routing problem with time windows using multi-objective discrete learnable evolution model
 - Problem: Multi-Objective VRP mit Time Windows (MODLEM)
@@ -330,11 +333,11 @@
 - Problem: VRP mit Präferenzen; ML lernt „Arc probabilities“
 - Keine Stochastik/Dynamik angegeben
 
-[<span style="background:#ff4d4f">deb2023</span>] Deb, S., Goswami, A. K., Hajra, B. G., Chetri, R. L., Roy, M., and Roy, R. (2023) – Development of machine learning based state-of-charge prediction model for plug-in electric vehicle’s relocation in sharing system
+[deb2023] Deb, S., Goswami, A. K., Hajra, B. G., Chetri, R. L., Roy, M., and Roy, R. (2023) – Development of machine learning based state-of-charge prediction model for plug-in electric vehicle’s relocation in sharing system
 - ML-basierte State-of-Charge für E-Fahrzeuge
 - Deterministischer VRP-Bezug, kein dynamischer Fokus
 
-[<span style="background:#ff4d4f">chen2023</span>] Chen, J., Zong, Z., Zhuang, Y., Yan, H., Jin, D., and Li, Y. (2023) – Reinforcement learning for practical express systems with mixed deliveries and pickups
+[chen2023] Chen, J., Zong, Z., Zhuang, Y., Yan, H., Jin, D., and Li, Y. (2023) – Reinforcement learning for practical express systems with mixed deliveries and pickups
 - Problem: Pickup-&-Delivery, deterministisch
 - GNN Encoder + Koordinierungsmechanismus
 
@@ -351,7 +354,7 @@
 [aljohani2020] Aljohani, T. M., Ebrahim, A., and Mohammed, O. (2021) – Real-time metadata-driven routing optimization for electric vehicle energy consumption minimization using deep reinforcement learning and Markov chain model
 - Problem: EV-Routing, deterministisch
 
-[<span style="background:#ff4d4f">gupta2022</span>] Gupta, A., Ghosh, S., and Dhara, A. (2022) – Deep reinforcement learning algorithm for fast solutions to vehicle routing problem with timewindows
+[gupta2022] Gupta, A., Ghosh, S., and Dhara, A. (2022) – Deep reinforcement learning algorithm for fast solutions to vehicle routing problem with timewindows
 - Problem: Capacitated VRP mit Time Windows, large-scale
 - Deterministisch
 
@@ -359,7 +362,7 @@
 - Problem: Large-scale VRP mit Time Windows
 - Deterministisch
 
-[<span style="background:#ff4d4f">jiang2022</span>] Jiang, J., Ma, R., and Shen, G. (2022) – Research on parallel distribution routing optimization based on improved reinforcement learning algorithm
+[jiang2022] Jiang, J., Ma, R., and Shen, G. (2022) – Research on parallel distribution routing optimization based on improved reinforcement learning algorithm
 - Problem: Multi-Distribution-Center VRP (Kapazitäten)
 - Deterministisch
 
@@ -367,7 +370,7 @@
 - Problem: Mehrere Fahrzeuge als Routing-Game
 - Rein deterministisch hier
 
-[<span style="background:#ff4d4f">ding2021</span>] Ding, R., Yang, Z., Wei, Y., Jin, H., and Wang, X. (2021) – Multi-agent reinforcement learning for urban crowd sensing with for-hire vehicles
+[ding2021] Ding, R., Yang, Z., Wei, Y., Jin, H., and Wang, X. (2021) – Multi-agent reinforcement learning for urban crowd sensing with for-hire vehicles
 - Vehicular Crowd Sensing / VRP-Entscheidungen
 - Kein Stochastik-Hinweis
 
@@ -379,7 +382,7 @@
 - Problem: VRP (2-opt Local Search)
 - Deterministisch
 
-[<span style="background:#ff4d4f">xin2020</span>] Xin, L., Song, W., Cao, Z., and Zhang, J. (2021) – Multi-decoder attention model with embedding glimpse for solving vehicle routing problems
+[xin2020] Xin, L., Song, W., Cao, Z., and Zhang, J. (2021) – Multi-decoder attention model with embedding glimpse for solving vehicle routing problems
 - Problem: CVRP
 - Deterministisch
 
@@ -393,7 +396,7 @@
 
 
 
-### Analytics and Machine Learning in Vehicle Routing Research
+### [bai2021] Analytics and Machine Learning in Vehicle Routing Research
 
 [calvet2016b] Calvet, Laura, Angel A Juan, Carles Serrat, and Jana Ries (2016) – A statistical learning based approach for parameter fine-tuning of metaheuristics
 - Beschreiben eine statistisch basierte “Parameter Selection”-Methode, angewandt auf ein Multi-Depot VRP
@@ -419,7 +422,7 @@
 - Zweistufige Lösung (Clustering + exakte/heuristische Touren)
 - Kein stochastischer Anteil
 
-[<span style="background:#ff4d4f">comert2018</span>] Comert, Serap Ercan, Harun Resit Yazgan, Sena Kır, and Furkan Yener (2018) – A cluster first-route second approach for a capacitated vehicle routing problem
+[comert2018] Comert, Serap Ercan, Harun Resit Yazgan, Sena Kır, and Furkan Yener (2018) – A cluster first-route second approach for a capacitated vehicle routing problem
 - Cluster-First-Routing-Second (K-Means, K-Medoids) für CVRP
 - Deterministisches Setting
 
@@ -447,7 +450,7 @@
 - Deterministische VRP-Variante (ggf. “Dynamic” ohne probabilistische Demands)
 - Fokus auf verbesserte ACO
 
-[<span style="background:#ff4d4f">geetha2013</span>] Geetha, S, G Poonthalir, and PT Vanathi (2013) – Nested particle swarm optimisation for multi-depot vehicle routing problem
+[geetha2013] Geetha, S, G Poonthalir, and PT Vanathi (2013) – Nested particle swarm optimisation for multi-depot vehicle routing problem
 - PSO-basiertes Verfahren für MDVRP
 - Keine stochastischen Annahmen
 
@@ -487,7 +490,7 @@
 - Dekomposition eines deterministischen VRP (Commodity-Flow-Modell)
 - Keine stochastischen Parameter
 
-[<span style="background:#ff4d4f">bai2007</span>] Bai, Ruibin, Edmund K Burke, Michel Gendreau, Graham Kendall, and Barry McCollum (2007) – Memory length in hyper-heuristics: An empirical study
+[bai2007] Bai, Ruibin, Edmund K Burke, Michel Gendreau, Graham Kendall, and Barry McCollum (2007) – Memory length in hyper-heuristics: An empirical study
 - Hyper-Heuristics mit RL/Adaptiven Regeln
 - Fokus auf deterministische VRP-TW
 
@@ -507,7 +510,7 @@
 - Ähnlich wie Gao et al. (2020): automatisierte LNS
 - Kein stochastischer VRP-Anteil
 
-[<span style="background:#ff4d4f">peng2020</span>] Peng, Bo, Jiahai Wang, and Zizhen Zhang (2020) – A Deep Reinforcement Learning Algorithm Using Dynamic Attention Model for Vehicle Routing Problems
+[peng2020] Peng, Bo, Jiahai Wang, and Zizhen Zhang (2020) – A Deep Reinforcement Learning Algorithm Using Dynamic Attention Model for Vehicle Routing Problems
 - CVRP/SDVRP, deterministisch
 - Transformer-/Attention-Mechanismus | REINFORCE (baseline) + Graph Attention Network
 
@@ -546,13 +549,28 @@
 - mTSP-Ansatz (mehrere Fahrer)
 - Deterministische Modellierung
 
-[<span style="background:#ff4d4f">hu2020</span>] Hu, Yujiao, Yuan Yao, and Wee Sun Lee (2020) – A reinforcement learning approach for optimizing multiple traveling salesman problems over graphs
+[hu2020] Hu, Yujiao, Yuan Yao, and Wee Sun Lee (2020) – A reinforcement learning approach for optimizing multiple traveling salesman problems over graphs
 - Mehrere TSP-Varianten (mTSP)
 - Deterministische Annahmen
 
+
+
+### [li2022] An Overview and Experimental Study of LearningBased Optimization Algorithms for the Vehicle Routing Problem
+
+
+### [liu2023] Heuristics for Vehicle Routing Problem-A Survey and Recent Advances
+
+
+### [raza2022] Vehicle Routing Problem Using Reinforcement Learning-Recent Advancements.pdf
+
+
+### [shi2023] A Brief Survey on Learning Based Methods for Vehicle Routing Problems
+
+
+
 ## Full Literature
 
-### Machine Learning to Solve Vehicle Routing Problems: A Survey
+### [bogyrbayeva2024] Machine Learning to Solve Vehicle Routing Problems: A Survey
 
 [1] M. A. Levans, “30th annual state of logistics report: What’s next?” Logistics Manage. Highlands Ranch, vol. 58, no. 7, pp. 9–10, 2019. 
 [2] Y. Yuan, D. Cattaruzza, M. Ogier, and F. Semet, “Last mile delivery problem: The one-vehicle case,” in Proc. 7th Workshop Freight Transp. Logistics (Odysseus), Cagliari, Italy, Jun. 2018. [Online]. Available: https://hal.science/hal-01951934 
@@ -686,7 +704,7 @@
 
 
 
-### Integrating Machine Learning Into Vehicle Routing Problem: Methods and Applications
+### [shahbazian2024] Integrating Machine Learning Into Vehicle Routing Problem: Methods and Applications
 
 [1] G. B. Dantzig and J. H. Ramser, ‘‘The truck dispatching problem,’’ Manag. Sci., vol. 6, no. 1, pp. 80–91, Oct. 1959.  
 [2] J. K. Lenstra and A. H. G. R. Kan, ‘‘Complexity of vehicle routing and scheduling problems,’’ Networks, vol. 11, no. 2, pp. 221–227, Jun. 1981.  
@@ -830,7 +848,7 @@
 
 
 
-### Analytics and Machine Learning in Vehicle Routing Research
+### [bai2021] Analytics and Machine Learning in Vehicle Routing Research
 
 Ahmed, Leena, Christine Mumford, and Ahmed Kheiri. 2019. “Solving urban transit route design problem using selection hyper-heuristics.” European Journal of Operational Research 274 (2): 545–559.
 Aksen, Deniz, Onur Kaya, F. Sibel Salman, and Ozge Tuncel. 2014. “An adaptive large neighborhood search algorithm for a selective and periodic inventory routing problem.” European Journal of Operational Research 239 (2): 413–426.
@@ -1012,3 +1030,15 @@ Zhang, Junping, Fei-Yue Wang, Kunfeng Wang, Wei-Hua Lin, Xin Xu, and Cheng Chen.
 Zhang, Yan, Ling-ling Li, Hsiung-Cheng Lin, Zewen Ma, and Jiang Zhao. 2019. “Development of path planning approach using improved A-star algorithm in AGV system.” Journal of Internet Technology 20 (3): 915–924.
 Zulj, Ivan, Sergej Kramer, and Michael Schneider. 2018. “A hybrid of adaptive large neighborhood search and tabu search for the order-batching problem.” European Journal of Operational Research 264 (2): 653–664.
 Žunic, Emir, Dženana Ðonko, and Emir Buza. 2020. “An adaptive data-driven approach to solve real-world vehicle routing problems in logistics.” Complexity 2020.
+
+
+### [li2022] An Overview and Experimental Study of LearningBased Optimization Algorithms for the Vehicle Routing Problem
+
+
+### [liu2023] Heuristics for Vehicle Routing Problem-A Survey and Recent Advances
+
+
+### [raza2022] Vehicle Routing Problem Using Reinforcement Learning-Recent Advancements.pdf
+
+
+### [shi2023] A Brief Survey on Learning Based Methods for Vehicle Routing Problems

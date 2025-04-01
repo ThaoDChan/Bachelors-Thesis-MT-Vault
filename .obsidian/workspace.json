@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ef4cd8cd0340f03",
+            "id": "9c09fc5401297870",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Notes.md",
+                "file": "Papers_Converted/0_Artifacts/[geetha2013]_Nested_particle_swarm_optimisation_for_multi-depot_vehicle_routing_problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "[geetha2013]_Nested_particle_swarm_optimisation_for_multi-depot_vehicle_routing_problem"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Notes.md",
+                "file": "Papers_Converted/0_Artifacts/[asinacha2024] Selecting fast algorithms for the capacitated vehicle routing problem with machine learning techniques.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline of [asinacha2024] Selecting fast algorithms for the capacitated vehicle routing problem with machine learning techniques"
             }
           },
           {
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,53 +203,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e38c18cfa1c5371",
+  "active": "9c09fc5401297870",
   "lastOpenFiles": [
-    "Papers_Converted/Proposal_Kühn_VRP_bud.md",
-    "Papers_Converted/Papers_ML/(alesiani2022)_Constrained_clustering_for_the_capacitated_vehicle_routing_problem_(CC-CVRP).md",
-    "Papers_Converted/Papers_ML/(zhao2021)_A_Hybrid_of_Deep_Reinforcement_Learning_and_Local_Search_for_the_Vehicle_Routing_Problems.md",
-    "Papers_Converted/Papers_ML/(calvet2016b)_A_statistical_learning_based_approach_for_parameter_fine-tuning_of_metaheuristics.md",
-    "Misc/Notes.md",
-    "Misc/Additional Literature.md",
-    "Misc/Outline Deep Research Prompt V1.md",
-    "2025-03-29.md",
-    "Papers_Converted/Papers_State_of_the_art/(braysy2005a)_Vehicle_Routing_Problem_with_Time_Windows-Part_I-Route_Construction_and_Local_Search_Algorithms.md",
-    "Misc/Survey Papers.md",
-    "0_Graveyard/Paper List - Machine Learning to Solve Vehicle Routing  Problems -  A Survey.md",
-    "Contents/1. Introduction.md",
-    "Papers_Converted/Papers_ML/(fitzpatrick2024)_A_scalable_learning_approach_for_the_capacitated_vehicle_routing_problem.md",
-    "Papers_Converted/Papers_ML/(lin2022)_Deep_Reinforcement_Learning_for_the_Electric_Vehicle_Routing_Problem_with_Time_Windows.md",
-    "Papers_Converted/Papers_ML/(peng2020)_A_Deep_Reinforcement_Learning_Algorithm_Using_Dynamic_Attention_Model_for_Vehicle_Routing_Problems.md",
-    "Papers_Converted/Papers_ML/(zhang2020)_Multi-Vehicle_Routing_Problems_with_Soft_Time_Windows-A_Multi-Agent_Reinforcement_Learning_Approach.md",
-    "Papers_Converted/Papers_State_of_the_art/(vidal2020)_A_concise_guide_to_existing_and_emerging_vehicle_routing_problem_variants.md",
-    "Papers_Converted/Papers_State_of_the_art/(braysy2005b)_Vehicle_Routing_Problem_with_Time_Windows-Part_II-Metaheuristics.md",
-    "Papers_Converted/Papers_Historic/(dantzig1959)_The_Truck_Dispatching_Problem.md",
-    "Papers_Converted/BT_MT_PHD/(tas2014)_Vehicle_routing_problem_with_flexible_time_windows.md",
-    "Papers_Converted/BT_MT_PHD/(larsen2000)_The_dynamic_vehicle_routing_problem.md",
-    "Papers_Converted/Books/(nalepa2019)_Smart_Delivery_Systems-Solving_Complex_Vehicle_Routing_Problems.md",
-    "Papers_Converted/Books/(toth2001)_The_Vehicle_Routing_Problem.md",
-    "Papers_Converted/Vehicle_Routing_Problems,_Methods,_and_Applications.md",
-    "Papers_Converted/Papers_ML/Surveys/(bai2021)_Analytics_and_Machine_Learning_in_Vehicle_Routing_Research.md",
-    "Papers_Converted/Papers_ML/Surveys/(shahbazian2024)_Integrating_Machine_Learning_Into_Vehicle_Routing_Problem-Methods_and_Applications.md",
-    "Papers_Converted/Artifacts",
-    "Papers_Converted/1_Not_Relevant",
-    "Papers_Converted/0_Graveyard",
-    "Papers_Converted/Graveyard",
-    "Graveyard",
-    "untitled folder",
-    "Papers_Converted/0_Artifacts/Vehicle_Routing_Problem_with_Time_Windows,_Part_II_-_Metaheuristics_artifacts/image_000022_51068c33d36f9fa1f9222032e55fddfd589114e2d46dd575c19988cb6a229336.png",
-    "Papers_Converted/0_Artifacts/Vehicle_Routing_Problem_with_Time_Windows,_Part_II_-_Metaheuristics_artifacts/image_000020_46f81b6bdc88d22bdcb3a762253c4c73f060e305b0b297737f51ea499c64e85b.png",
-    "Papers_Converted/0_Artifacts/Vehicle_Routing_Problem_with_Time_Windows,_Part_II_-_Metaheuristics_artifacts/image_000019_e7c7a8c851f9cc20d377d4c430646cef0ddae0350703263742d67ca53bbe1ebe.png",
-    "Papers_Converted/0_Artifacts/Vehicle_Routing_Problem_with_Time_Windows,_Part_II_-_Metaheuristics_artifacts/image_000021_51068c33d36f9fa1f9222032e55fddfd589114e2d46dd575c19988cb6a229336.png",
-    "Papers_Converted/0_Artifacts/Vehicle_Routing_Problem_with_Time_Windows,_Part_II_-_Metaheuristics_artifacts/image_000015_e7c7e523e54b6abf0049a363c26aa5b7dadeb39893479d563ceb682bfddceee8.png",
-    "Papers_Converted/0_Artifacts/Vehicle_Routing_Problem_with_Time_Windows,_Part_II_-_Metaheuristics_artifacts/image_000018_fa7694bde6dc7c1d12402d64d4475151a6088ca42f951b317b7c220949421d62.png",
-    "Papers_Converted/0_Artifacts/Vehicle_Routing_Problem_with_Time_Windows,_Part_II_-_Metaheuristics_artifacts/image_000012_51068c33d36f9fa1f9222032e55fddfd589114e2d46dd575c19988cb6a229336.png",
-    "Papers_Converted/0_Artifacts/Vehicle_Routing_Problem_with_Time_Windows,_Part_II_-_Metaheuristics_artifacts/image_000016_bab5daea9e0d0b6213b17936fe0f36a330806f397ae740b6c5fe509513523538.png",
-    "Papers_Converted/0_Artifacts/Vehicle_Routing_Problem_with_Time_Windows,_Part_II_-_Metaheuristics_artifacts/image_000017_1d73cbf437540c3dbd570b4dfea14c3ae4ec7b0855d6082ffc9cea10a8647290.png",
-    "Papers_Converted/0_Artifacts/Vehicle_Routing_Problem_with_Time_Windows,_Part_II_-_Metaheuristics_artifacts/image_000013_e7c7a8c851f9cc20d377d4c430646cef0ddae0350703263742d67ca53bbe1ebe.png",
-    "Papers_Converted/0_Artifacts/Vehicle_Routing_Problem_with_Time_Windows,_Part_II_-_Metaheuristics_artifacts",
-    "Papers_Converted/0_Artifacts/Vehicle_Routing_Problem_with_Time_Windows,_Part_I_-_Route_Construction_and_Local_Search_Algorithms_artifacts",
-    "Papers_Converted/0_Artifacts/The_Vehicle_Routing_Problem_artifacts",
-    "Papers_Converted/0_Artifacts/The_dynamic_vehicle_routing_problem_artifacts"
+    "Papers_Converted/0_Artifacts/[flood1956]_The_Traveling-Salesman_Problem.md",
+    "Papers_Converted/0_Artifacts/[falkner2020]_Learning_to_solve_vehicle_routing_problems_with_time_windows_through_joint_attention.md",
+    "Papers_Converted/0_Artifacts/[ding2021]_Multi-agent_reinforcement_learning_for_urban_crowd_sensing_with_for-hire_vehicles.md",
+    "Papers_Converted/0_Artifacts/[deudon2018]_Learning_heuristics_for_the_TSP_by_policy_gradient.md",
+    "Papers_Converted/0_Artifacts/[desaulniers2020]_Machine-learning-based_column_selection_for_column_generation.md",
+    "Papers_Converted/0_Artifacts/[deb2023]_Development_of_machine_learning_based_state-of-charge_prediction_model_for_plug-in_electric_vehicles_relocation_in_sharing_system.md",
+    "Papers_Converted/0_Artifacts/[comert2018]_A_cluster_first-route_second_approach_for_a_capacitated_vehicle_routing_problem.md",
+    "Papers_Converted/0_Artifacts/[chen2023]_Reinforcement_Learning_for_Practical_Express_Systems_with_Mixed_Deliveries_and_Pickups.md",
+    "Papers_Converted/0_Artifacts/[chen2019]_A_variable_neighborhood_search_algorithm_with_reinforcement_learning_for_a_real-life_periodic_vehicle_routing_problem_with_time_windows_and_open_routes.md",
+    "Papers_Converted/0_Artifacts/[bai2007]_Memory_Length_in_Hyper-heuristics-An_Empirical_Study.md",
+    "Papers_Converted/0_Artifacts/[alwesabi2022]_Fleet_optimization_of_smart_electric_motorcycle_system_using_deep_reinforcement_learning.md",
+    "Papers_Converted/0_Artifacts/[alrashidi2024] Variable Neighborhood Search Based on Reinforcement Learning for Green Vehicle Routing Problem.md",
+    "Papers_Converted/0_Artifacts/[alqahtani2022]_Dynamic_energy_scheduling_and_routing_of_multiple_electric_vehicles_using_deep_reinforcement_learning.md",
+    "Papers_Converted/0_Artifacts/[alrashidi2024].md",
+    "Papers_Converted/[braysy2005b]_Vehicle_Routing_Problem_with_Time_Windows-Part_II-Metaheuristics.md",
+    "Proposal_Kühn_VRP_bud.md",
+    "Papers_Converted/0_Artifacts/[flood1956]_The_Traveling-Salesman_Problem_artifacts/image_000009_1d409450240d56b7de5b052734dc7293f9eb942b3090eda2133242a05c7035fc.png",
+    "Papers_Converted/0_Artifacts/[flood1956]_The_Traveling-Salesman_Problem_artifacts/image_000008_8a8abd5119d40ccfe20a7adbf173988b7666d422039730dd7aec08085aeab9e8.png",
+    "Papers_Converted/0_Artifacts/[flood1956]_The_Traveling-Salesman_Problem_artifacts/image_000007_c05fe59576e894ab280403ac722bee6a3501279ee31b57612cf5bcebed3ec169.png",
+    "Papers_Converted/0_Artifacts/[flood1956]_The_Traveling-Salesman_Problem_artifacts/image_000006_2ad55bc7e8434a7968638892cd231ca4d8b9cfbdfbe4badcb786993338ca9ad0.png",
+    "Papers_Converted/0_Artifacts/[flood1956]_The_Traveling-Salesman_Problem_artifacts/image_000005_a911172e14bd0a73bc46a7857a50f65d4528a9586ad1a8534de857c81b24826a.png",
+    "Papers_Converted/0_Artifacts/[flood1956]_The_Traveling-Salesman_Problem_artifacts/image_000004_e2093185b56575eecb43a082fe224218dee43ce388c9c14a92d3c31f9a2c7020.png",
+    "Papers_Converted/0_Artifacts/[flood1956]_The_Traveling-Salesman_Problem_artifacts/image_000003_2b18014a0b3a9f2a83afb87ff2b056b6f7942914f25dfcccb5407b9b3f9112b0.png",
+    "Papers_Converted/0_Artifacts/[flood1956]_The_Traveling-Salesman_Problem_artifacts/image_000002_3fe51e6d12014acd223a5e7283ed0f2a1fa0a3a6dca32bc1eae8ea1c1090589a.png",
+    "Papers_Converted/0_Artifacts/[flood1956]_The_Traveling-Salesman_Problem_artifacts/image_000001_5309a8b9bb18e4ebd31e5f8c5327fc862027be0acf5096d15ff19e834333cadf.png",
+    "Papers_Converted/0_Artifacts/[flood1956]_The_Traveling-Salesman_Problem_artifacts/image_000000_5e1ef163967b72eecb875b46de36f51d0588ab89bbbf3a4edde1a7bfc85cad65.png",
+    "Papers_Converted/0_Artifacts/[flood1956]_The_Traveling-Salesman_Problem_artifacts",
+    "Papers_Converted/0_Artifacts/[zou2022]_An_improved_transformer_model_with_multi-head_attention_and_attention_to_attention_for_low-carbon_multi-depot_vehicle_routing_problem.md",
+    "Papers_Converted/0_Artifacts/[zou2022]_An_improved_transformer_model_with_multi-head_attention_and_attention_to_attention_for_low-carbon_multi-depot_vehicle_routing_problem_artifacts",
+    "Papers_Converted/0_Artifacts/[asinacha2024] Selecting fast algorithms for the capacitated vehicle routing problem with machine learning techniques.md",
+    "Papers_Converted/0_Artifacts/[yucenur2011]_A_new_geometric_shape-based_genetic_clustering_algorithm_for_the_multi-depot_vehicle_routing_problem.md",
+    "Papers_Converted/0_Artifacts/[yucenur2011]_A_new_geometric_shape-based_genetic_clustering_algorithm_for_the_multi-depot_vehicle_routing_problem_artifacts",
+    "Papers_Converted/0_Artifacts/[wu2020]_Learning_improvement_heuristics_for_solving_routing_problems.md",
+    "Papers_Converted/0_Artifacts/[wu2020]_Learning_improvement_heuristics_for_solving_routing_problems_artifacts",
+    "Papers_Converted/0_Artifacts/[wang2020a]_Collaborative_two-echelon_multicenter_vehicle_routing_optimization_based_on_state–space–time_network_representation.md",
+    "Papers_Converted/0_Artifacts/[wang2020a]_Collaborative_two-echelon_multicenter_vehicle_routing_optimization_based_on_state–space–time_network_representation_artifacts",
+    "Papers_Converted/0_Artifacts/[rezaei2023] Combining genetic local search into a multi-population Imperialist Competitive Algorithm for the Capacitated Vehicle Routing Problem.md",
+    "Papers_Converted/0_Artifacts/[rezaei2023] Combining genetic local search into a multi-population Imperialist Competitive Algorithm for the Capacitated Vehicle Routing Problem_artifacts",
+    "Papers_Converted/0_Artifacts/[moradi2020]_The_new_optimization_algorithm_for_the_vehicle_routing_problem_with_time_windows_using_multi-objective_discrete_learnable_evolution_model.md",
+    "Papers_Converted/0_Artifacts/[moradi2020]_The_new_optimization_algorithm_for_the_vehicle_routing_problem_with_time_windows_using_multi-objective_discrete_learnable_evolution_model_artifacts",
+    "Papers_Converted/0_Artifacts/[morabit2024] Learning to repeatedly solve routing problems.md",
+    "Papers_Converted/0_Artifacts/[morabit2024] Learning to repeatedly solve routing problems_artifacts",
+    "Papers_Converted/0_Artifacts/[li2022]_Deep_reinforcement_learning_for_solving_the_heterogeneous_capacitated_vehicle_routing_problem.md",
+    "Papers_Converted/0_Artifacts/[li2022]_Deep_reinforcement_learning_for_solving_the_heterogeneous_capacitated_vehicle_routing_problem_artifacts",
+    "Papers_Converted/0_Artifacts/[desaulniers2020]_Machine-learning-based_column_selection_for_column_generation_artifacts",
+    "Papers_Converted/0_Artifacts/[souza2023] A robust algorithm based on Differential Evolution with local search for the Capacitated Vehicle Routing Problem.md"
   ]
 }

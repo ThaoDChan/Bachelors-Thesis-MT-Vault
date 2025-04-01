@@ -7,7 +7,7 @@
 ## Papers Historic
 
 
-# Papers ML
+## Papers ML
 
 ## Survey Papers
 
@@ -16,3 +16,7 @@
 # Papers state of the art
 
 Tex Test Block
+
+| DL  | TITLE | BIB | SORTED | DOCLING | SUMMARY | **Citation Key** |
+| --- | ----- | --- | ------ | ------- | ------- | ---------------- |
+| [X] | [X]   | [X] | []     | []      | []      | [zhang2020]      |
