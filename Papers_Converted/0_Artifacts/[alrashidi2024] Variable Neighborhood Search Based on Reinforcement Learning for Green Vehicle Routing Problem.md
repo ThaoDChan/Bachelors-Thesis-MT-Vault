@@ -119,7 +119,7 @@ VNS  is  a  metaheuristic  optimization  technique applicable to complex optimiz
 
 Fig. 2. The application of the VNS algorithm to the GVRP.
 
-![Image](Papers_Converted/0_Artifacts/[alrashidi2024] Variable Neighborhood Search Based on Reinforcement Learning for Green Vehicle Routing Problem_artifacts/image_000001_a27c1c82de06379d187558c03f4517b14edaae190740bc212a13034b00b79d74.png)
+![Image](image_000001_a27c1c82de06379d187558c03f4517b14edaae190740bc212a13034b00b79d74.png)
 
 Therefore,  VNS  can  be  used  as  a  standalone optimization method or as part of a hybrid approach-such as combining it with RL or any other metaheuristic  algorithm-to  enhance  the  efficiency of the solution.
 
