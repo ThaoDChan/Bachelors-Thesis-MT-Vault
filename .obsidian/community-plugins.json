@@ -7,5 +7,7 @@
   "url-into-selection",
   "image-converter",
   "obsidian-git",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "settings-search",
+  "obsidian-regex-replace"
 ]
