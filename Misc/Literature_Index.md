@@ -72,8 +72,6 @@
 
 [gupta2022] Gupta, A., Ghosh, S., and Dhara, A. (2022) – Deep reinforcement learning algorithm for fast solutions to vehicle routing problem with timewindows
 
-[<span style="background:#ff4d4f">liu2022</span>] Liu, M., Wang, Z., and Li, J. (2022) – A deep reinforcement learning algorithm for large-scale vehicle routing problems
-
 [jiang2022] Jiang, J., Ma, R., and Shen, G. (2022) – Research on parallel distribution routing optimization based on improved reinforcement learning algorithm
 
 [shou2022] Shou, Z., Chen, X., Fu, Y., and Di, X. (2022) – Multi-agent reinforcement learning for Markov routing games: A new modeling paradigm for dynamic traffic assignment
@@ -227,8 +225,6 @@
 [dornemann2023] Dornemann, J. (2023) – Solving the capacitated vehicle routing problem with time windows via graph convolutional network assisted tree search and quantum-inspired computing
 
 [vamsi2023] Krishna Munjuluri Vamsi, V. S., Telukuntla, Y. R., Kumar, P. S., Gutjahr, G. (2023) – Comparison of Attention Mechanisms in Machine Learning Models for Vehicle Routing Problems
-
-[sanli2024] Sanlı, Ö., Kartal, Z. (2024) – Machine learning and mathematical programming based hybrid solution proposal for capacitated vehicle routing problem; [Kapasiteli araç rotalama problemi için makine öğrenmesi ve matematiksel programlama temelli hibrid bir çözüm önerisi]
 
 [baty2024] Baty, L., Jungel, K., Klein, P. S., Parmentier, A., Schiffer, M. (2024) – Combinatorial Optimization-Enriched Machine Learning to Solve the Dynamic Vehicle Routing Problem with Time Windows
 

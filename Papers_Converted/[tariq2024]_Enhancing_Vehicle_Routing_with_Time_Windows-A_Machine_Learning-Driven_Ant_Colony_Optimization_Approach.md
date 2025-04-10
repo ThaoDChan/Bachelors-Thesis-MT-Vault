@@ -301,7 +301,7 @@ TABLE III Sensitivity Analysis Results
 
 Sensitivity was quantified to capture how changes in parameter values impact solution quality. We calculated the sensitivity of each parameter using the formula:
 
-$$\text{sensitivity} = \frac { \text{worst value} \, \text{-- best value} } { \text{best value} } \times 100 \quad ( 7 ) \quad \text{$^{th}_{\tau}$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$}}$$
+$$\text{sensitivity} = \frac { \text{worst value} \, \text{-- best value} } { \text{best value} } \times 100 \quad ( 7 ) \quad \text{$^{th}_{\tau}$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$} \quad \text{$\tau$}}
 
 The sensitivity percentage highlights the extent to which variations in each parameter affect the solution quality. A high sensitivity value suggests that the parameter has a substantial impact on the algorithm's performance, while a lower value indicates robustness to changes in that parameter. This analysis allowed us to identify which parameters most significantly influence the performance of the ML-ACO-VRPTW algorithm.
 

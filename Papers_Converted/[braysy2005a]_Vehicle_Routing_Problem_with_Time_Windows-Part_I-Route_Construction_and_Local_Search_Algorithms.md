@@ -90,7 +90,7 @@ $$c _ { 1 } ( i, u, j ) = \alpha _ { 1 } c _ { 1 1 } ( i, u, j ) + \alpha _ { 2 
 
 $$\text{where} \quad & \alpha _ { 1 } + \alpha _ { 2 } = 1, \quad \alpha _ { 1 } \geq 0, \quad \alpha _ { 2 } \geq 0, \\ c _ { 1 1 } ( i, u, j ) = d _ { i u } + d _ { u j } - \mu d _ { i j }, \quad \mu \geq 0, \quad \ ( 4 ) \\ c.. & \, ( i \ u \ i \L = h. \ - h. \quad \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \$$
 
-$$c _ { 1 2 } ( i, u, j ) = b _ { j u } - b _ { j },$$
+c _ { 1 2 } ( i, u, j ) = b _ { j u } - b _ { j },$$
 
 and diu , duj , and dij are distances between customers i and u u , and j , and i and j , respectively. Parameter /SLmu controls the savings in distance, and b ju denotes the new time for service to begin at customer j , given that u is inserted on the route and b j is the beginning of service before insertion. The criterion c /lparenorii/commaori 2 u/commaori j/rparenori is calculated as follows
 

@@ -1,6 +1,6 @@
 {
-  "findText": "(\\Papers_Converted\\/0_Artifacts\\/)[^\\/]+_artifacts\\/",
-  "replaceText": "",
+  "findText": "(!\\[.*?\\]\\().*?_artifacts/",
+  "replaceText": "![Image](",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
