@@ -270,7 +270,7 @@ It is worth noting that treating independent actors as a single-agent actor that
 
 Theorem 1. Let ∇ θ J k ( π ) be the derivative of J ( π ) w.r.t. to θ at each training iteration k. Then, we have
 
-$$\lim _ { k \to \infty } \inf _ { k } \| \nabla _ { \theta } J _ { k } ( \pi ) \| = 0, \text{w.p. 1}. \quad \ \ ( 1 5 ) \ \ B. \ B \alpha$$
+$$\lim _ { k \to \infty } \inf _ { k } \| \nabla _ { \theta } J _ { k } ( \pi ) \| = 0, \text{w.p. 1}. \quad \ \ ( 1 5 ) \ \ B. \ B \alpha
 
 That is, after enough training iterations, the GCC-MARL training algorithm converges to a local maximum of J ( π ) .
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers_Converted/[alesiani2022]_Constrained_clustering_for_the_capacitated_vehicle_routing_problem_[CC-CVRP].md",
+                "file": "2_Paper_Notes/Papers_ML/Survey Papers/[zunic2020].md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[alesiani2022]_Constrained_clustering_for_the_capacitated_vehicle_routing_problem_[CC-CVRP]"
+              "title": "[zunic2020]"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers_Converted/[alesiani2022]_Constrained_clustering_for_the_capacitated_vehicle_routing_problem_[CC-CVRP].md",
+                "file": "2_Paper_Notes/Papers_ML/Survey Papers/[zunic2020].md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of [alesiani2022]_Constrained_clustering_for_the_capacitated_vehicle_routing_problem_[CC-CVRP]"
+              "title": "Outline of [zunic2020]"
             }
           },
           {
@@ -216,32 +216,34 @@
   },
   "active": "2e38c18cfa1c5371",
   "lastOpenFiles": [
-    "2_Paper_Notes/Papers_ML/[zhou2023].md",
-    "2_Paper_Notes/Papers_ML/[yue2023].md",
-    "2_Paper_Notes/Papers_ML/[wang2025].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[zou2022].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[zong2022].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[zhou2022].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[yucenur2011].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[zhang2020].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[zhao2021].md",
     "Papers_Converted/[zhou2023]_Towards_Omni-generalizable_Neural_Methods_for_Vehicle_Routing_Problems.md",
-    "Misc/Literature_Tracking.md",
-    "Misc/Literature_Index.md",
-    "2_Paper_Notes/Papers_ML/sanli2024 !!.md",
-    "Papers_Converted/[yue2023]_Graph_Q-learning_Assisted_Ant_Colony_Optimization_for_Vehicle_Routing_Problems_with_Time_Windows.md",
-    "2_Paper_Notes/Papers_ML/[wang2023c].md",
-    "2_Paper_Notes/Papers_ML/[wang2023b].md",
+    "Papers_Converted/[zunic2020]_An_adaptive_data-driven_approach_to_solve_real-world_vehicle_routing_problems_in_logistics.md",
+    "Papers_Converted/[zou2022]_An_improved_transformer_model_with_multi-head_attention_and_attention_to_attention_for_low-carbon_multi-depot_vehicle_routing_problem.md",
+    "Papers_Converted/[zong2022]_RBG-Hierarchically_solving_large-scale_routing_problems_in_logistic_systems_via_reinforcement_learning.md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[wu2020].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[wang2022].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[xin2020].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[xu2018].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[yao2019].md",
+    "Papers_Converted/[zhou2022]_Adaptive_gradient_descent_enabled_ant_colony_optimization_for_routing_problems.md",
+    "Papers_Converted/[zhao2021]_A_Hybrid_of_Deep_Reinforcement_Learning_and_Local_Search_for_the_Vehicle_Routing_Problems.md",
+    "Papers_Converted/[zhang2020]_Multi-vehicle_routing_problems_with_soft_time_windows-A_multi-agent_reinforcement_learning_approach 1.md",
+    "Papers_Converted/[zhang2020]_Multi-Vehicle_Routing_Problems_with_Soft_Time_Windows-A_Multi-Agent_Reinforcement_Learning_Approach.md",
+    "Papers_Converted/[yucenur2011]_A_new_geometric_shape-based_genetic_clustering_algorithm_for_the_multi-depot_vehicle_routing_problem.md",
+    "Papers_Converted/[wen2010]_Rich_Vehicle_Routing_Problems_and_Applications.md",
     "Papers_Converted/[wang2025] Deep Reinforcement Learning for Solving Vehicle Routing Problems With Backhauls.md",
-    "2_Paper_Notes/Papers_ML/[wang2023a].md",
-    "Proposal_Kühn_VRP_bud.md",
-    "C=10.md",
-    "Papers_Converted/[wang2023c] Routing optimization with Monte Carlo Tree Search-based multi-agent reinforcement learning.md",
-    "Papers_Converted/[wang2023b]_A_co-evolutionary_genetic_algorithm_with_knowledge_transfer_for_multi-objective_capacitated_vehicle_routing_problems.md",
-    "2_Paper_Notes/Papers_ML/[vamsi2023].md",
-    "2_Paper_Notes/Papers_ML/[tyasnurita2024].md",
-    "Papers_Converted/[wang2023a]_An_Ant_Colony_Algorithm_Assisted_by_Graph_Neural_Networks_for_Solving_Vehicle_Routing_Problems.md",
-    "2_Paper_Notes/Papers_ML/[souza2023].md",
-    "2_Paper_Notes/Papers_ML/[tariq2024].md",
-    "Papers_Converted/[vamsi2023]_Comparison_of_Attention_Mechanisms_in_Machine_Learning_Models_for_Vehicle_Routing_Problems.md",
-    "Papers_Converted/[tyasnurita2024]_Constructing_selection_hyper-heuristics_for_open_vehicle_routing_with_time_delay_neural_networks_using_multiple_experts.md",
-    "2_Paper_Notes/Papers_ML/[alrashidi2024].md",
-    "2_Paper_Notes/Papers_ML/[asinacha2024].md",
-    "2_Paper_Notes/Papers_ML/[cavalcanti2023].md",
+    "Papers_Converted/[yao2019]_ADMM-based_problem_decomposition_scheme_for_vehicle_routing_problem_with_time_windows 1.md",
+    "Papers_Converted/[yao2019]_ADMM-based_problem_decomposition_scheme_for_vehicle_routing_problem_with_time_windows.md",
+    "Papers_Converted/[xu2018]_Dynamic_Vehicle_Routing_Problems_with_Enhanced_Ant_Colony_Optimization.md",
+    "Papers_Converted/[wang2020b]_Green_logistics_location-routing_problem_with_eco-packages.md",
+    "3_Literature/2_additional/[li2022b] An Overview and Experimental Study of LearningBased Optimization Algorithms for the Vehicle Routing Problem.pdf",
+    "3_Literature/Papers_ML/Survey Papers/[kool2019]_Attention,_Learn_to_Solve_Routing_Problems!.pdf",
     "0_Graveyard/Paper_Notes_not_relevant",
     "3_Literature/Papers_ML/[alrashidi2024]_Variable_Neighborhood_Search_Based_on_Reinforcement_Learning_for_Green_Vehicle_Routing_Problem.pdf",
     "3_Literature/BT_MT_PHD/[poullet2020]_Leveraging_Machine_Learning_to_Solve_the_Vehicle_Routing_Problem_with_Time_Windows.pdf",
@@ -259,8 +261,6 @@
     "Papers_Converted/0_Artifacts/[pinheiro2022]_Network_Science-Analysis_and_Optimization_Algorithms_for_Real-World_Applications_artifacts/image_000307_43f7f34b5c1195f1d989f6dcc46b03b2f3c97d4aac3451e06dcf69f79a9757a3.png",
     "Papers_Converted/0_Artifacts/[pinheiro2022]_Network_Science-Analysis_and_Optimization_Algorithms_for_Real-World_Applications_artifacts/image_000306_a65c7e09ff1352754d913579bf3047039f56aa617eb0a49790073ba84488deb7.png",
     "Papers_Converted/0_Artifacts/[pinheiro2022]_Network_Science-Analysis_and_Optimization_Algorithms_for_Real-World_Applications_artifacts/image_000305_b6dac4e8f1d7f4b12dfad91098bd946ee6cd41deebe5ba06e7c5949f36622f98.png",
-    "Papers_Converted/0_Artifacts/[pinheiro2022]_Network_Science-Analysis_and_Optimization_Algorithms_for_Real-World_Applications_artifacts",
-    "2_Paper_Notes/Papers_ML/Survey Papers",
-    "3_Literature/0_to sort/[toth2014]_Vehicle_Routing-Problems_Methods_and_Applications.pdf"
+    "Papers_Converted/0_Artifacts/[pinheiro2022]_Network_Science-Analysis_and_Optimization_Algorithms_for_Real-World_Applications_artifacts"
   ]
 }

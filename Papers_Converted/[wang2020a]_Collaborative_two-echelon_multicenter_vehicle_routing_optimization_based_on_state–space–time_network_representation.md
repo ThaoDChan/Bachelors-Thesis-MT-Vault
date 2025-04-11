@@ -542,7 +542,7 @@ $$g ^ { c } ( S ) = V ( S ) - \sum _ { d \in S } m _ { d } ^ { c }, \, S \equiv 
 
 C 0 ð d Þ denotes the cost of participant d without coalition; C A ð Þ is the total cost saving when forming grand coalition A (i.e., the coalition including all participants); and s is the synergy requirement, which expresses the bene /uniFB01 ts that the alliance organizer receives. V S ð Þ represents the cost-saving of forming coalition S . The pro /uniFB01 t for each participant can be calculated in accordance with Eq. (37).
 
-$$Z _ { d } = m _ { d } ^ { c } + \frac { \min ^ { c } ( S ) } { \sum _ { d \in A } \min ^ { c } ( S ) } g ^ { c } ( A ), \, \forall d \in A & ( 3 7 ) & \text{the} \\ C G A \, \text{can distribute profits to each participant, and its simplicity} & \text{diag}$$
+$$Z _ { d } = m _ { d } ^ { c } + \frac { \min ^ { c } ( S ) } { \sum _ { d \in A } \min ^ { c } ( S ) } g ^ { c } ( A ), \, \forall d \in A & ( 3 7 ) & \text{the} \\ C G A \, \text{can distribute profits to each participant, and its simplicity} & \text{diag}
 
 CGA can distribute pro /uniFB01 ts to each participant, and its simplicity helps control the pro /uniFB01 t allocation process to ensure the coalition stability.
 

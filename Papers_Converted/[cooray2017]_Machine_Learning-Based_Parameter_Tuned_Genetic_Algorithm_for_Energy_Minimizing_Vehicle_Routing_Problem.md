@@ -209,7 +209,7 @@ To analyze the performance of GA, the experiment has been designed for the selec
 
 Note that these mutation rates, size of the population, and number of generations are the most widely used values found in the literature. The outcome of GA is energy reduction percentage compared to initial energy consumption of the tour. This is calculated as
 
-$$\frac { ( \text{Initial energy} - Final energy)} { \text{Initial energy} } \ast 100%. \quad ( 8 ) \quad terec$$
+\frac { ( \text{Initial energy} - Final energy)} { \text{Initial energy} } \ast 100%. \quad ( 8 ) \quad terec
 
 MR 0.001 MR 0.0025 MR 0.005 MR 0.0075 MR 0.01
 
