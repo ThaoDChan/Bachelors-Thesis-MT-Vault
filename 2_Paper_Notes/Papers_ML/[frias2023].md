@@ -14,7 +14,6 @@
   #VRPBenchmarks 
   #DeterministicVRP
 - **Relevant**: true  
-  - *Reasoning*: The paper develops a deterministic VRP approach (energy-minimizing VRP) with unsupervised ML (K-Means/K-Medoids) combined with an ACO-based metaheuristic, aligning with the thesis focus on deterministic ML-based VRP.
 - **Fit Score**: 9
 - **State of the Art (SoA) Concepts**:
   - EMVRP (energy-oriented, “green” VRP variant)

@@ -1,0 +1,436 @@
+  - Meta-learning for VRP solutions
+  - Policy gradient reinforcement learning
+  - Use of pointer networks and attention-based (Transformer) models
+  - Approaches for generalizing across distribution and problem size
+  - Large-scale experimental evaluations (TSP/CVRP up to 1000 nodes)
+  - Benchmarking against TSPLIB/CVRPLIB
+  - Graph Q-learning / GNN-based RL for combinatorial optimization
+  - Ant colony optimization (ACO) for VRPTW
+  - Adaptive combination of heuristic (ACO) and learned policy
+  - Deep reinforcement learning (REINFORCE) for combinatorial optimization
+  - Two-stage attention-based encoder for heterogeneous nodes
+  - Traditional and improved VRPB (vehicle routing with backhauls) 
+  - Multi-agent reinforcement learning (MARL) with communication
+  - Monte Carlo Tree Search (MCTS) combined with policy gradient
+  - Graph Neural Networks (GNN) with transformer-based encoder
+  - Hybrid supervised-imitation + RL pipeline (inspired by AlphaGo)
+  - TSP and CVRP benchmarks
+  - Co-evolutionary approach for MO-CVRP
+  - Knowledge transfer from TSP to CVRP
+  - Denoising Autoencoder for domain mapping
+  - Multi-objective genetic algorithm
+  - Pre-trained Graph Neural Networks for VRP
+  - Supervised learning from optimal solutions (Gurobi)
+  - Ant Colony Optimization (ACO) initialization with learned pheromone
+  - Vehicle Routing Problem with Time Windows (VRPTW)
+  - Local search (2-opt, exchange, relocate)
+  - Multi-head attention for combinatorial optimization
+  - Reinforcement learning (policy-based) for CVRP
+  - Pointer networks and sequence-to-sequence architecture
+  - Neural message passing in VRP contexts
+  - Hyper-heuristics for heuristic selection
+  - Apprenticeship / imitation learning from expert solutions
+  - Time Delay Neural Networks for sequence-based decision-making
+  - Open VRP variant with large-scale benchmarks
+  - Machine-learning-based heuristic prediction for VRPTW
+  - Ant Colony Optimization with adaptive pheromone updates
+  - Incorporation of time window and capacity constraints
+  - Use of regression models (Decision Trees, Random Forest, XGBoost, ANN)
+  - Discrete Differential Evolution (DE) metaheuristic for CVRP
+  - Hybridization with local search (swapping, drop-one-point)
+  - Benchmarking on classical CVRP instances
+  - Multi-agent DRL for VRP
+  - Policy-gradient-based RL (REINFORCE with baseline)
+  - Drone energy consumption modeling
+  - Local search (2-opt, sampling strategies) integrated with RL
+  - Hybrid metaheuristic combining Imperialist Competitive Algorithm (ICA) and Genetic Local Search  
+  - Deterministic CVRP with multi-population approach  
+  - Parallelizable evolutionary structures  
+  - Real-world dataset (LoggiBUD) in addition to classical CVRP benchmarks
+  - Deterministic VRP with time windows and multiple vehicles
+  - Crowd-shipping via occasional drivers
+  - Hybrid Local Search with Reinforcement Learning (Q-learning)
+  - Variable Neighborhood Search (VNS)
+  - Performance comparison on Solomon benchmark instances
+  - Machine Learning-assisted evolutionary algorithms for routing
+  - Graph Neural Networks (GNN) for VRP solution encoding
+  - VRPTW formulation under deterministic settings
+  - Learned edge-fixing for re-optimizing CVRP solutions
+  - Branch-and-price (column generation) for VRP
+  - Integration of ML predictions within an exact solver framework
+  - Iterated local search heuristics (FILO)
+  - Quantum support vector machines (QSVM)
+  - Encoding strategies (amplitude, angle, higher-order, IQP)
+  - Ising model mapping for VRP
+  - Hybrid quantum-classical optimization (VQE, QAOA)
+  - Hybrid quantum-classical optimization algorithms (VQE, QAOA frameworks)
+  - Modeling VRP via Ising/QUBO formulations
+  - Noise channel analysis in quantum computing
+  - Random forest classification for VRP solutions
+  - GRASP (Greedy Randomized Adaptive Search) metaheuristic
+  - Ruin-and-recreate local search (FILO0 variant)
+  - Variable Neighborhood Descent (VND)
+  - Feature-based solution representation for CVRP
+  - Multi-Agent Reinforcement Learning (MARL) for vehicle routing  
+  - Proximal Policy Optimization (PPO) in a bargaining-game framework  
+  - Fair gain sharing (Shapley value correlation)  
+  - Multi-depot VRP formulation (uncapacitated variant)  
+  - Coalition formation and game theory in routing  
+  - Hybrid Genetic Search (HGS) Metaheuristic
+  - Clarke & Wright Savings Heuristic
+  - Frequent Pattern Mining for Solution Initialization
+  - Benchmarking on CVRPLIB & 12th DIMACS Implementation Challenge
+  - Simulated annealing for route optimization
+  - Linear regression-based demand prediction
+  - Multi-agent system for VRPTW
+  - Integration of ML and metaheuristics
+  - Reinforcement learning methods integrated with evolutionary algorithms
+  - CVRPTW (a classical but complex deterministic VRP variant)
+  - Hybrid RL-EA architectures
+  - MDP-based problem formulation for VRP
+  - K-means clustering for VRP  
+  - Branch and Cut (exact method)  
+  - Nearest Neighbor heuristic  
+  - CVRP variant  
+  - EMVRP (energy-oriented, “green” VRP variant)
+  - Capacitated VRP structures
+  - Ant Colony Optimization (BWAS, MAX-MIN variants)
+  - K-Means and K-Medoids clustering for route pre-processing
+  - Local search (VNS) integration
+  - POMO approach (policy gradient RL for VRP)
+  - Decomposition-based sub-problem solving (using ML)
+  - Set partitioning formulation for recombination
+  - Extensions to Green VRP
+  - Graph Convolutional Networks (GCN)
+  - Beam search heuristic for VRPTW
+  - Quantum-inspired (QUBO) formulation for routing
+  - Integration of ML predictions with an OR-based solver approach
+  - Use of Solomon benchmarks
+  - Reinforcement Learning for CVRP
+  - Proximal Policy Optimization (PPO) approach
+  - Flexible action space design
+  - Model reusability / transfer across different VRP instances
+  - Deterministic problem setting with capacity constraints
+  - Hybridization of Ant Colony Optimization (ACO) and Genetic Algorithm (GA)
+  - Integration of TensorFlow-based neural networks for route selection
+  - Use of the Solomon benchmark dataset (C, R, RC) for capacity/time window constraints
+  - Comparison against other optimization approaches (PSO, SVM, etc.)
+  - Automatic algorithm selection in VRP  
+  - Constructive heuristics (Clark and Wright, Nearest Neighbor, Sweep)  
+  - Supervised learning (Random Forest, Decision Trees, SVM, MLP)  
+  - Large-scale benchmark instances (Uchoa’s X instances, Li, Golden)  
+  - KGLS local search  
+  - Role of initial solutions in local search  
+  - Automatic algorithm selection and configuration
+  - Supervised learning with Random Forest, Gradient Boosting, k-NN, AdaBoost
+  - Genetic Algorithm (Hybrid Genetic Search)
+  - Clarke and Wright heuristic, Sweep heuristic
+  - CVRPLIB benchmarks
+  - Reinforcement Learning (RL) for deterministic VRP
+  - Variable Neighborhood Search (VNS)
+  - Hybrid RL-heuristic optimization
+  - Green Vehicle Routing Problem (GVRP) with multi-objective considerations
+  - Comparison with Genetic Algorithms and Tabu Search
+  - Data-driven parameter tuning (SVM & GLM) for VRPs  
+  - Hybrid heuristic approach combining Clarke-Wright, Tabu search, and local improvements  
+  - Deterministic VRP with time windows and site-dependent constraints  
+  - Handling of large-scale real-world routing with adaptive module-based methods  
+  - Transformer-based deep reinforcement learning for deterministic VRP  
+  - Multi-head attention and attention-to-attention (AOA) mechanisms  
+  - Low-carbon or “green” multi-depot VRP variant  
+  - Hybrid integration of local search (2-opt) with DRL  
+  - Hierarchical reinforcement learning structure (rewriter + generator)
+  - Divide-and-conquer approach for large-scale CVRP
+  - Hybrid of RL with heuristics (LKH/HGS) or neural attention-based solvers
+  - Extensions to CVRPTW and pickup-and-delivery scenarios
+  - Adaptive gradient-based parameter update for ant colony optimization
+  - Reinforcement learning interpretation of ACO (policy gradient)
+  - Deterministic routing: TSP and CVRP
+  - Parallel implementations of ACO
+  - Deep reinforcement learning (actor-critic methods)  
+  - Attention-based neural combinatorial optimization  
+  - Local search (LNS, OR-Tools) hybridization  
+  - VRPTW and standard VRP with capacity constraints  
+  - Multi-agent reinforcement learning for multi-vehicle VRP
+  - Attention-based encoder-decoder architecture
+  - Policy gradient (REINFORCE) for combinatorial optimization
+  - Incorporation of soft time windows via penalty function
+  - Genetic algorithms for clustering in VRP
+  - Two-phase approach (cluster-first, route-second)
+  - Multi-depot VRP
+  - Comparison with nearest neighbor heuristic
+  - ADMM-based decomposition for VRP
+  - Hyper-dimensional network flow formulation
+  - Lagrangian-based bounding (lower bound, upper bound)
+  - Time-window constrained VRP
+  - Large-scale problem implementation details
+  - Enhanced Ant Colony Optimization for dynamic VRP
+  - K-means for clustering customer locations
+  - 2-Opt local optimization
+  - Incorporation of crossover operator from GA
+  - Multi-Decoder attention-based RL approach
+  - Embedding Glimpse layer for incremental re-embedding
+  - Application to TSP, CVRP, SDVRP, OP, PCTSP
+  - Customized beam search for diverse solutions
+  - Actor-critic reinforcement learning for improvement heuristics  
+  - Attention-based / Transformer-like policy architecture  
+  - TSP and CVRP as primary VRP variants  
+  - Neighborhood search operators (2-opt, node swap, relocation)  
+  - Testing on real-world benchmark datasets (TSPlib and CVRPlib)
+  - Multicenter (multidepot) VRP with time windows
+  - Mixed deliveries and pickups in a single route
+  - Unsupervised ML (3D k-means clustering)
+  - Hybrid GA-PSO metaheuristic
+  - Profit allocation (Game Theory-based MCRS) to maintain alliance stability
+  - Multi-echelon location-routing with time windows  
+  - Gaussian mixture clustering for VRP partitioning (unsupervised ML)  
+  - Clarke–Wright + Non-dominated Sorting Genetic Algorithm (NSGA-II)  
+  - Lagrangian relaxation approach for vehicle routing subproblems  
+  - Integration of environmental (“green”) considerations in VRP  
+  - Two-echelon (multicenter) VRP
+  - Unsupervised K-means clustering for customer grouping
+  - Hybrid methodology (DP + GA-based multi-objective algorithm)
+  - Game-theoretic cost allocation (CGA, Shapley-like approach)
+  - Incorporation of emission considerations (environment-friendly logistics)
+  - Pointer Networks (Ptr-Nets)
+  - Sequence-to-Sequence with attention
+  - Neural combinatorial optimization
+  - TSP as a deterministic VRP instance
+  - Pointer Network architectures for VRP
+  - VRPTW (vehicle routing with time windows) with pickup and delivery
+  - Neural-network-based insertion operators within LNS
+  - Supervised learning with cost-based loss
+  - Multi-armed bandit–based operator selection
+  - Dynamic hyper-heuristic framework
+  - Selection of effective subsets of local search heuristics
+  - Deterministic Vehicle Routing with Time Windows (VRPTW)
+  - ParamILS-based parameter tuning
+  - Multi-agent Q-learning framework for VRPTW
+  - Reinforcement learning combined with metaheuristics
+  - Parallel and cooperative search among agents
+  - Pointer neural networks with global attention for solving VRP  
+  - Reinforcement learning (policy gradient) for training a model without labeled data  
+  - Comparison of ML-based solution vs. genetic algorithm vs. differential evolution  
+  - Parameter tuning for large-scale, multi-vehicle VRP under deterministic conditions  
+  - Hybrid Genetic Search (HGS)
+  - Local search with learned “heatmap” edges
+  - Graph Neural Networks for edge probability prediction
+  - Granular search (pruning neighborhoods)
+  - Ablation study comparing distance-based vs. GNN-based relatedness
+  - Multi-agent deep reinforcement learning  
+  - Attention-based encoder-decoder for vehicle routing  
+  - GRU-based “route recorders” for capturing route history  
+  - Time-window constraints in deterministic multi-vehicle routing  
+  - Ant Colony System (ACS) metaheuristic
+  - Multi-Compartment Vehicle Routing Problem (MCVRP)
+  - K-means clustering for route pre-processing
+  - 2-opt local search improvement
+  - k-means clustering for CVRP pre-processing  
+  - Cluster-first-route-second methodology  
+  - Cheapest link algorithm for route construction  
+  - Heterogeneous vehicle capacities in a deterministic VRP setting  
+  - Heterogeneous Vehicle Routing Problem (HVRP)
+  - Reinforcement learning with policy gradient (DPPO / PPO variant)
+  - Hyper-heuristic framework combining multiple meta-heuristics
+  - Mixed-Integer Linear Programming (MILP) baseline comparison
+  - Q-learning as an adaptive mechanism for neighborhood operator selection
+  - Multi-objective evolutionary algorithm (NSGA-II framework)
+  - Time-dependent VRPTW with green (fuel/carbon) objectives
+  - Hybrid initialization heuristics for route construction
+  - Dynamic encoder-decoder architecture for VRP
+  - Policy gradient (REINFORCE) for constructing VRP solutions
+  - Multi-head attention and GNN-based feature extraction
+  - Comparisons with classic solvers (LKH3, Gurobi) and improved heuristics (2OPT)
+  - Generalization to different instance sizes
+  - K-means clustering as a clustering-first approach for VRP
+  - Genetic algorithms for route optimization
+  - Comparisons with Tabu Search and Simulated Annealing
+  - Multi-objective VRPTW (Vehicle Routing Problem with Time Windows)
+  - Learnable Evolution Model (LEM) with decision-tree-based learning
+  - SPEA2? (Strength Pareto Evolutionary Algorithm)
+  - Hybrid ML-assisted metaheuristics
+  - Column Generation for VRPTW
+  - Supervised Learning (imitation learning) for arc selection
+  - Vehicle Crew Scheduling (second application example)
+  - Machine Learning–based pricing heuristics
+  - Column Generation for VRPTW
+  - Supervised Learning (imitation learning) for arc selection
+  - Vehicle Crew Scheduling (second application example)
+  - Machine Learning–based pricing heuristics
+   - Neural networks for cost-function learning in VRP
+  - Decision-focused learning integrated with VRP optimization
+  - Arc-based probability estimation
+  - Learning from historical (real-world) routing solutions 
+  - Dual-aspect collaborative attention mechanism for VRP
+  - Cyclic positional encoding (CPE) for better sequence representation
+  - Iterative solution improvement via RL policy and local search (2-opt)
+  - Proximal Policy Optimization (PPO) training
+  - Tests on TSP and CVRP with standard benchmarks (TSPLIB, CVRPLIB)
+  - Hierarchical reinforcement learning  
+  - Graph-based neural encoders (Graph Neural Networks)  
+  - Pointer networks for route construction  
+  - Policy gradient method  
+  - TSP with time windows (deterministic variant)
+  - K-means clustering (unsupervised learning) for customer–depot assignment
+  - Memetic/Evolutionary metaheuristics (shuffled frog leaping algorithm, extremal optimization)
+  - Deterministic VRP variants: MDVRP, MDVRPTW, CVRP
+  - Hybrid cluster-first route-second approach
+  - Iterative local-search framework guided by reinforcement learning (Learn to Improve, L2I)  
+  - Outperforms LKH3 on CVRP  
+  - Policy gradient (REINFORCE) with specialized improvement operators  
+  - Ensemble method of multiple policies  
+  - Deep RL with Pointer Networks, Attention Mechanism, and Graph Embeddings
+  - EVRPTW (Electric Vehicle Routing Problem with Time Windows)
+  - Policy Gradient Training using Rollout Baseline
+  - Comparison with Metaheuristics (VNS/TS) and CPLEX
+  - Attention-based Transformer decoder for multi-vehicle selection
+  - Hybrid DRL approach for heterogeneous CVRP
+  - Min-max and min-sum objective evaluation
+  - Competitive results vs. classical heuristics (SISR, VNS) and existing DRL (AM)
+  - Heterogeneous attention mechanisms integrated into a transformer-like encoder-decoder.
+  - Actor-Critic RL framework modeling the problem as an MDP.
+  - Empirical comparison against classical solvers (CPLEX, OR-Tools) and heuristic methods.
+  - Pointer-network/Transformer-based neural combinatorial optimization.  
+  - Transformer-based subproblem selection
+  - Iterative local search / delegation to subsolvers
+  - LKH-3 and HGS as VRP solvers
+  - Applications to CVRP, CVRPTW, VRP with pickup/delivery
+  - Speedup vs classical local search heuristics
+  - Route-first, cluster-second heuristic  
+  - Genetic Algorithm for route optimization  
+  - K-means, K-medoids, K-modes clustering  
+  - Capacity-constrained VRP for service routing  
+  - Supervised classification (KNN, SVM, Random Forest) for solver/decomposition selection  
+  - Dantzig-Wolfe reformulation and branch-and-price method  
+  - GCG solver for structured MIP (including CVRP)  
+  - Integration of ML into an exact MIP/branch-and-price framework  
+  - Attention-based neural architectures for routing problems (Transformer-style encoder-decoder)
+  - REINFORCE policy gradient with self-critical (rollout) baseline
+  - Comparisons with Pointer Networks and state-of-the-art solvers (LKH, OR-Tools)
+  - Applications to TSP, CVRP, SDVRP, Orienteering Problem, and PCTSP
+  - Supervised learning using solutions from an ILP solver  
+  - Permutation-invariant neural architecture for combinatorial optimization  
+  - Multiple Traveling Salesmen Problem (mTSP) as a multi-vehicle routing extension  
+  - Comparison to OR-Tools local search heuristics on TSPLib instances  
+  - Hybrid AI architecture combining KBS + Neural Networks + Genetic Algorithms
+  - Deterministic multi-vehicle VRP with capacity constraints (CVRP)
+  - Cluster-first route-second heuristic
+  - TSP-based sub-routine with insertion heuristics
+  - Deep Graph Convolutional Networks for TSP
+  - Non-autoregressive decoding with beam search
+  - Supervised learning from optimal Concorde solutions
+  - Transformer-based policy network for CVRP
+  - Multi-depot VRP with capacity constraints
+  - Reinforcement learning with rollout baseline
+  - Multi-agent RL architecture (distributed policy networks) for MTSP
+  - Graph Neural Networks combined with attention-based policy
+  - S-sample policy gradient technique to reduce variance
+  - Comparison with integer linear programming and OR-Tools heuristics
+  - Conditional Variational Autoencoder (CVAE) for routing
+  - Supervised learning from Concorde (TSP) and LKH3 (CVRP) solutions
+  - Differential Evolution in latent space
+  - Symmetry breaking in solution sequences
+  - Large Neighborhood Search (LNS) with learned repair operators
+  - Policy gradient reinforcement learning for VRP
+  - Neural attention mechanism for incomplete solution repair
+  - Comparison with LKH3 and state-of-the-art CVRP/SDVRP solvers
+  - K-means clustering for VRP partitioning
+  - Border adjustment heuristic for balanced areas
+  - Decomposition strategies for large-scale deterministic VRP
+  - Deep Reinforcement Learning with Value-Based Method (DQN)  
+  - Attention-based Encoder-Decoder  
+  - Experience Replay  
+  - Capacitated VRP with Time Windows  
+  - Post-processing Insertion Heuristic  
+  - K-means for clustering VRP customers
+  - 3D bin packing solved via ML-based best-fit-first heuristic
+  - Genetic algorithm for the routing component (pick-up routing)
+  - Mixed-integer programming for train loading assignment
+  - Multi-depot VRP (MDVRP) with capacity constraints
+  - Particle Swarm Optimization (PSO) metaheuristic
+  - Hybrid approach (PSO + genetic operators + local search)
+  - Clustering-first, route-second approach
+  - EGATE (Element-wise Graph Attention Network) for node-edge embedding  
+  - GRU-based pointer-style decoder  
+  - Reinforcement learning (PPO actor-critic) for VRP heuristics  
+  - CVRP and CVRPTW test settings  
+  - Machine Learning integrated with exact methods for VRP  
+  - Sampled Vehicle Routing Problem (SVRP) concept  
+  - Reliability-based branching with predicted scores  
+  - Random forests for branching decisions  
+  - Branch-and-price algorithms for VRPTW and SCVRP  
+  - Joint attention approach for parallel route construction  
+  - Policy gradient (REINFORCE) for CVRP with time windows  
+  - Comparison with OR-Tools meta-heuristics  
+  - Enhanced transformer-based (attention) architectures for constrained routing  
+  - Mixed-integer linear programming (MILP) for distance & refueling constraints
+  - Clarke & Wright-based savings heuristic, modified for fuel capacity
+  - Density-based clustering (DBSCAN) as an unsupervised ML method
+  - Real-world case study demonstrating limited refueling infrastructure
+  - Graph Convolutional Networks (GCN) for VRP
+  - Joint RL + supervised learning strategy (reinforcement learning with rollout baseline + classification decoder)
+  - Capacitated VRP with real GIS-based distances
+  - Comparison to OR-Tools and existing DL-based methods
+  - Policy gradient with actor-critic
+  - Attention-based neural network (transformer-like) for TSP
+  - Pointer network decoder
+  - Hybrid method with local search (2-opt)
+  - Transfer to unseen TSP sizes
+  - Graph neural networks for column selection
+  - Supervised learning from an MILP “expert”
+  - Column generation for VRPTW and set partitioning models
+  - Integration of ML into exact optimization
+  - Value-based RL with combinatorial actions
+  - Approximate dynamic programming for CVRP
+  - Mixed-integer programming (branch-and-cut) for action selection
+  - Single-instance vs. distributional RL approaches
+  - Multi-depot vehicle routing with electric vehicles (EVs)
+  - Supervised learning for battery SOC prediction (Adaboost, XGBoost)
+  - Exact solver (IBM CPLEX) integration with ML-driven constraints
+  - Relocation-based vehicle sharing strategy for EV rebalancing
+  - DRL-based 2-opt local search for TSP, mTSP, and CVRP
+  - Pointer Networks with attention mechanisms
+  - Graph convolutional layers (GCN) for embedding
+  - Policy gradient (REINFORCE) approach for combinatorial optimization
+  - Energy Minimizing VRP (EMVRP) as a sub-problem of Green VRP
+  - Genetic Algorithm metaheuristics
+  - k-means clustering for parameter tuning
+  - Use of standard VRP benchmarks (CVRPLib)
+  - Cluster-first, route-second approach (hierarchical heuristic)
+  - K-means, K-medoids (unsupervised clustering)
+  - CVRP with capacity constraints (32-40 pallets)
+  - Branch and Bound exact solver for TSP subproblems
+  - VRP with Hard Time Windows (VRPHTW)
+  - Clustering-based solution approaches (K-means, K-medoids, DBSCAN)
+  - Hierarchical “cluster-first route-second” strategy
+  - Exact solution (MILP) for route optimization
+  - Graph Neural Network-based encoding for VRP
+  - Policy gradient (REINFORCE) for route construction
+  - Mixed pickup and delivery (VRPMDP) as an extension of classic VRP
+  - Encoder-decoder frameworks with attention
+  - Dynamic loading rate mechanism
+  - Neural-network-based destroy operator within LNS
+  - Hierarchical Recurrent Graph Convolutional Networks (HRGCN)
+  - Proximal Policy Optimization (PPO) for policy training
+  - Deterministic VRP with time windows (CVRPTW)
+  - Adaptive heuristics (ALNS-style) for large-scale routing
+  - Reinforcement learning-based operator selection (adaptive operator selection)
+  - Open periodic VRP with time windows
+  - Variable Neighborhood Search (VNS) metaheuristic
+  - Feasibility-driven local search with sampling
+  - Real-life large-scale container transportation scheduling
+  - Parameter tuning strategies for deterministic VRPs
+  - Clustering-based instance analysis for metaheuristic fine-tuning
+  - Multi-Depot Vehicle Routing Problem (MDVRP) with ILS + biased-randomization
+  - Pointer Networks with Attention
+  - Policy-Gradient-based RL for TSP
+  - Actor-Critic approach
+  - Active Search strategy for improved solutions
+  - Deep Q-Network (DQN) for decision-making in routing/rebalancing
+  - Deterministic pickup and delivery rebalancing approach
+  - Single-vehicle route optimization (truck capacity = 3 motorcycles)
+  - Integration of real-world operational data from a university campus
+  - Constrained k-means-style clustering for large-scale deterministic CVRP
+  - Two-stage method: cluster-level VRP + TSP sub-routes
+  - Use of standard CVRP benchmarks (Uchoa 2017)
+  - Demonstrates near real-time solutions for large instances with modest optimality gaps

@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Paper_Notes/Papers_ML/Survey Papers/[zunic2020].md",
+                "file": "2_Paper_Notes/Papers_ML/Survey Papers/[kruber2017].md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[zunic2020]"
+              "title": "[kruber2017]"
+            }
+          },
+          {
+            "id": "787d6444bdf315d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Sota Context Relevant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sota Context Relevant"
+            }
+          },
+          {
+            "id": "7866b7576f7a404a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Contents/2. State of the art.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. State of the art"
             }
           }
         ]
@@ -53,10 +81,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#RandomForestPredictor",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -74,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,8 +156,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false,
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Paper_Notes/Papers_ML/Survey Papers/[zunic2020].md",
+                "file": "2_Paper_Notes/Papers_ML/Survey Papers/[kruber2017].md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of [zunic2020]"
+              "title": "Outline of [kruber2017]"
             }
           },
           {
@@ -216,32 +245,32 @@
   },
   "active": "2e38c18cfa1c5371",
   "lastOpenFiles": [
-    "2_Paper_Notes/Papers_ML/Survey Papers/[zou2022].md",
-    "2_Paper_Notes/Papers_ML/Survey Papers/[zong2022].md",
-    "2_Paper_Notes/Papers_ML/Survey Papers/[zhou2022].md",
-    "2_Paper_Notes/Papers_ML/Survey Papers/[yucenur2011].md",
-    "2_Paper_Notes/Papers_ML/Survey Papers/[zhang2020].md",
-    "2_Paper_Notes/Papers_ML/Survey Papers/[zhao2021].md",
-    "Papers_Converted/[zhou2023]_Towards_Omni-generalizable_Neural_Methods_for_Vehicle_Routing_Problems.md",
-    "Papers_Converted/[zunic2020]_An_adaptive_data-driven_approach_to_solve_real-world_vehicle_routing_problems_in_logistics.md",
-    "Papers_Converted/[zou2022]_An_improved_transformer_model_with_multi-head_attention_and_attention_to_attention_for_low-carbon_multi-depot_vehicle_routing_problem.md",
-    "Papers_Converted/[zong2022]_RBG-Hierarchically_solving_large-scale_routing_problems_in_logistic_systems_via_reinforcement_learning.md",
-    "2_Paper_Notes/Papers_ML/Survey Papers/[wu2020].md",
-    "2_Paper_Notes/Papers_ML/Survey Papers/[wang2022].md",
-    "2_Paper_Notes/Papers_ML/Survey Papers/[xin2020].md",
-    "2_Paper_Notes/Papers_ML/Survey Papers/[xu2018].md",
-    "2_Paper_Notes/Papers_ML/Survey Papers/[yao2019].md",
-    "Papers_Converted/[zhou2022]_Adaptive_gradient_descent_enabled_ant_colony_optimization_for_routing_problems.md",
-    "Papers_Converted/[zhao2021]_A_Hybrid_of_Deep_Reinforcement_Learning_and_Local_Search_for_the_Vehicle_Routing_Problems.md",
-    "Papers_Converted/[zhang2020]_Multi-vehicle_routing_problems_with_soft_time_windows-A_multi-agent_reinforcement_learning_approach 1.md",
-    "Papers_Converted/[zhang2020]_Multi-Vehicle_Routing_Problems_with_Soft_Time_Windows-A_Multi-Agent_Reinforcement_Learning_Approach.md",
-    "Papers_Converted/[yucenur2011]_A_new_geometric_shape-based_genetic_clustering_algorithm_for_the_multi-depot_vehicle_routing_problem.md",
-    "Papers_Converted/[wen2010]_Rich_Vehicle_Routing_Problems_and_Applications.md",
-    "Papers_Converted/[wang2025] Deep Reinforcement Learning for Solving Vehicle Routing Problems With Backhauls.md",
-    "Papers_Converted/[yao2019]_ADMM-based_problem_decomposition_scheme_for_vehicle_routing_problem_with_time_windows 1.md",
-    "Papers_Converted/[yao2019]_ADMM-based_problem_decomposition_scheme_for_vehicle_routing_problem_with_time_windows.md",
-    "Papers_Converted/[xu2018]_Dynamic_Vehicle_Routing_Problems_with_Enhanced_Ant_Colony_Optimization.md",
-    "Papers_Converted/[wang2020b]_Green_logistics_location-routing_problem_with_eco-packages.md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[furian2021].md",
+    "2_Paper_Notes/Papers_ML/[cavalcanti2023].md",
+    "2_Paper_Notes/Papers_ML/[asinacha2024].md",
+    "2_Paper_Notes/Papers_ML/[mesa2025].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[ma2022].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[li2021].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[deudon2018].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[chen2020b].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[chen2019].md",
+    "2_Paper_Notes/Papers_ML/Survey Papers/[silva2019].md",
+    "DeterministicVRP.md",
+    "2_Paper_Notes/Papers_ML/[yue2023].md",
+    "2_Paper_Notes/Papers_ML/[zhou2023].md",
+    "Misc/Sota Context Raw.md",
+    "Misc/asd/asd.md",
+    "Misc/Sota Context Relevant.md",
+    "Misc/Sota Context Sorted.md",
+    "Misc/Survey Papers.md",
+    "1_Contents/2. State of the art.md",
+    "Misc/Literature_Index.md",
+    "Papers_Converted/[hu2020]_A_reinforcement_learning_approach_for_optimizing_multiple_traveling_salesman_problems_over_graphs.md",
+    "Proposal_Kühn_VRP_bud.md",
+    "Misc/asd/Index Deep Research Prompt.md",
+    "Misc/asd/Summary Propmt.md",
+    "Misc/asd/Summary Prompt CONTEXT.md",
+    "Misc/asd/Summary Prompt TAGS.md",
     "3_Literature/2_additional/[li2022b] An Overview and Experimental Study of LearningBased Optimization Algorithms for the Vehicle Routing Problem.pdf",
     "3_Literature/Papers_ML/Survey Papers/[kool2019]_Attention,_Learn_to_Solve_Routing_Problems!.pdf",
     "0_Graveyard/Paper_Notes_not_relevant",

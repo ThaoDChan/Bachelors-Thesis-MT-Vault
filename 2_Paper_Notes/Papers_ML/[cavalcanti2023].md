@@ -13,7 +13,6 @@
   #DeterministicVRP 
   #SVM
 - **Relevant**: true  
-- **Reason**: The paper explores a deterministic VRP (the standard capacitated variant) and develops a supervised ML approach to select an initial solution for a local search.  
 - **Fit Score**: 9  
 - **State of the Art (SoA) Concepts**:
   - Automatic algorithm selection in VRP  

@@ -128,6 +128,51 @@ A text Block labled BIB containing the literature I intend on using in my thesis
 #QuantumComputingVRP
 
 #AlgorithmSelection
+#MultiAgentSystem
+#GameTheory
+#QuantumNoise
+#VQE
+#AQC
+#IsingModel
+#QUBO
+#AngleEncoding
+#AmplitudeEncoding
+#HigherOrderEncoding
+#IQPEncoding
+#VRPCrowdShipping
+#ImperialistCompetitiveAlgorithm
+#ParallelImplementation
+#MultiDepotVRP
+#OpenVRP
+#TimeDelayNeuralNetworks
+#TransferLearning
+#Autoencoder
+#CoEvolution
+#VRPB
+#MetaLearning
+#VehicleRebalancing
+#ParameterTuning
+#PeriodicVehicleRouting
+#EnergyMinimizingVRP
+#ClusterFirstRouteSecond
+#ParticleSwarmOptimization
+#3DLoading
+#IntermodalTransport
+#BalancedClustering
+#Orienteering
+#PCTSP
+#RouteFirstClusterSecond
+#HierarchicalReinforcementLearning
+#DecisionFocusedLearning
+#SwapBodyVRP
+#GRASP
+#CrewScheduling
+#MultiCompartment
+#TaskPriority
+#NewTagMultiDecoder
+#NewTagMultiDecoder
+#ADMM
+
 
 ---
 ### CONTEXT
@@ -160,7 +205,7 @@ Research Motivation & Contribution
 
 Summary Format & Focus
 - The overall literature review will span approximately 15 pages.
-- Each paper will be **summarized in ~60-80 words**, highlighting:
+- Each paper will be **summarized in only a few sentences**, highlighting:
   1. **Core Contribution** or innovation (What problem does it solve? What’s new?)  
   2. **ML Model & VRP Variant** (e.g., supervised pointer network for CVRP, RL-based approach for TSP, etc.)  
   3. **Research Gap** or primary challenge the paper addresses  
@@ -176,19 +221,19 @@ What to Emphasize When Analyzing Papers
 ## Task
 
 1. **Read & Interpret the Paper**:  
-	   - The paper focuses on Machine Learning-Based Approaches for Vehicle Routing Problems (VRP), as described in the CONTEXT section. 
-	   - The .md file might contain OCR errors; do your best to interpret them correctly.  
-	   - If crucial details (e.g., formulas, tables) are too garbled to interpret, please mention this under “Debug & Action Items”. 
+      - The paper focuses on Machine Learning-Based Approaches for Vehicle Routing Problems (VRP), as described in the CONTEXT section. 
+      - The .md file might contain OCR errors; do your best to interpret them correctly.  
+      - If crucial details (e.g., formulas, tables) are too garbled to interpret, please mention this under “Debug & Action Items”. 
 
 2. **Extract Metadata**
-	 - **Link to PDF**: (provide a placeholder for me to manually insert)  
-     - **Tags**: Provide **10-20** relevant tags as inline “#tags” separated by spaces.  The goal is for me to be able to identify correlating papers and group them together. a 100% fit is not necessary as long as the paper has a close thematic link to the tag and it makes sense to cluster the specific paper with other papers holding the same tag. Tags MUST include the ML techniques and VRP variants used
-	    - For example: `#ML-Supervised #ML-SupervisedImitation` etc. 
-	     - Refer to the existing tag list in the `TAGS` section (see below).  
-	     - Select the **relevant tags** from that existing list (use the format `#TagName`).  
-	     - If the paper introduces new concepts not covered by the existing tags, propose **new** tags.  Make sure to NOT GENERATE GENERIC TAGS like VRP. The aim of the tags is to finely cluster the different papers; correlate them with a specific subsection within my thesis and then further correlate papers that e.g. use the same ML approach for the same VRP variant within the subsections. generic tags like '#VRP' are of no use. Make sure to only suggest new tags if its  necessary for a key aspect of the paper that would otherwise fall under the table (i don't want my tag list to get too large)
-	     - **List these new tags** under “Debug & Action Items” in a fenced code block, with **one tag per line** (format `#NewTag`).  
-	     - If **no** new tags are needed, mention that explicitly under “Debug & Action Items”.
+    - **Link to PDF**: (provide a placeholder for me to manually insert)  
+     - **Tags**: Provide **10-20** relevant tags “#tags” one in a new line.  The goal is for me to be able to identify correlating papers and group them together. a 100% fit is not necessary as long as the paper has a close thematic link to the tag and it makes sense to cluster the specific paper with other papers holding the same tag. Tags MUST include the ML techniques and VRP variants used
+       - For example: `#ML-Supervised #ML-SupervisedImitation` etc. 
+        - Refer to the existing tag list in the `TAGS` section (see below).  
+        - Select the **relevant tags** from that existing list (use the format `#TagName`).  
+        - If the paper introduces new concepts not covered by the existing tags, propose **new** tags.  Make sure to NOT GENERATE GENERIC TAGS like VRP. The aim of the tags is to finely cluster the different papers; correlate them with a specific subsection within my thesis and then further correlate papers that e.g. use the same ML approach for the same VRP variant within the subsections. generic tags like '#VRP' are of no use. Make sure to only suggest new tags if its  necessary for a key aspect of the paper that would otherwise fall under the table (i don't want my tag list to get too large)
+        - **List these new tags** under “Debug & Action Items” in a fenced code block, with **one tag per line** (format `#NewTag`).  
+        - If **no** new tags are needed, mention that explicitly under “Debug & Action Items”.
      - **Relevant marker**: Boolean field — specify whether this paper is relevant (`true`) or not (`false`) to my overarching research scope as outlined in the CONTEXT section. Papers focussing on NON DETERMINISTIC VRP are automatically flagges as NOT RELEAVNT. please provide a very short explanation for your resoning behind your flagging of the paper as relevant/irrelevant in the “Debug & Action Items” section.
      - **Fit Score**: A number from **0** to **10**, indicating how well this paper fits into the context of my thesis on ML-based VRP solutions as outlined in the CONTEXT section (10 = very strong fit, 0 = not a fit).  The goal is to only include papers in my thesis that fit my research question. I have 20-30% excess in papers so I will rely on this to sort out the irrelevant ones
      - **State of the Art (SoA) Concepts**: A list (bullet) of key methods, VRP variants, or ML techniques that I might need to include in my “State of the Art” chapter if I reference this paper.  
@@ -196,16 +241,16 @@ What to Emphasize When Analyzing Papers
      - **Performance Evaluation Framework**: If yes, list the standard framework or dataset used (e.g., Solomon benchmarks, Christofides, Golden, etc.). Otherwise `"-"`. 
 
 3. **Create a Structured Summary in English**:
-	   - Summarize the paper highlighting the key findings, most significant insights and implications, key theories, and gaps identified
-	   - Make sure to Write the summary in the format outlined in the following section
-	   - Make sure the summary is taylored to my thesis with respect to the Info you have from the CONTEXT section
-	   - Aim for about **1-2 pages** of text (roughly 600-1200 words), but primarily ensure all relevant information is included. The word count/length is not fixed, you are allowed to use more or less words depending on paper length. Consider that my thesis is a literature review, so i will only write the most important facts for a given paper in the span of 60-80 words.
-	   - The summary shall be written in bullets, english
-	   - Use clear, concise academic writing. 
-	   - If the text references any images or diagrams that appear crucial to understanding, explicitly request them in “Debug & Action Items”.  
-	   - Ignore small OCR or layout inconsistencies unless they completely block interpretation. 
-	   - If the text includes formulas or code snippets that are partially garbled, do your best to reconstruct them or note the issue.  
-	   - Use neutral, third-person tone.  
+      - Summarize the paper highlighting the key findings, most significant insights and implications, key theories, and gaps identified
+      - Make sure to Write the summary in the format outlined in the following section
+      - Make sure the summary is taylored to my thesis with respect to the Info you have from the CONTEXT section
+      - Aim for about **1-2 pages** of text (roughly 600-1200 words), but primarily ensure all relevant information is included. The word count/length is not fixed, you are allowed to use more or less words depending on paper length. Consider that my thesis is a literature review, so i will only write the most important facts for a given paper in the span of 60-80 words.
+      - The summary shall be written in bullets, english
+      - Use clear, concise academic writing. 
+      - If the text references any images or diagrams that appear crucial to understanding, explicitly request them in “Debug & Action Items”.  
+      - Ignore small OCR or layout inconsistencies unless they completely block interpretation. 
+      - If the text includes formulas or code snippets that are partially garbled, do your best to reconstruct them or note the issue.  
+      - Use neutral, third-person tone.  
 
 4. **Include the Following Sections** (in the order shown):
    - **Document Title**  
@@ -264,4 +309,3 @@ What to Emphasize When Analyzing Papers
 ...
 -->
 ```
-
